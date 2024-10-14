@@ -28,6 +28,8 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"  # Mantén este formato para fecha y hora.
   descriptionInPosts = true
+  # description = "Blog Personal Rodrigo Pérez del Pulgar Almodóvar"
+  images = ["images/prev.png"]
   themeColor = "#494f5c"
   footerCopyright = "Gracias por tu visita!"
   relatedPosts = true
@@ -38,8 +40,9 @@ expiryDate = ["expiryDate"]
   readTimeSeparator = "palabras, tiempo de lectura:"
   shareSocial = true
   homeSubtitlePrinter = true
-  homeSubtitle = "Bienvenido a mi web! Infórmate sobre mí y visita mis proyectos!"
-  pinned = " "
+  homeSubtitle = "Bienvenido a mi web! "
+  pinned = " "  
+
   
 [[params.socialLinks]]
   name = "linkedin"
