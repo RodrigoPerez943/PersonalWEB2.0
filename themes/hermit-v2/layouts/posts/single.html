@@ -58,12 +58,12 @@
 		<div class="post-nav thin">
 			{{- with .NextInSection }}
 			<a class="next-post" href="{{ .Permalink }}">
-				<span>{{ .Title }}</span>
+				<span class="post-nav-label">{{- partial "svg.html" (dict "context" . "name" "next") -}}&nbsp;{{- if fileExists "i18n" -}} {{ i18n "newer" }} {{- else -}}  {{- end -}}</span><br><span>{{ .Title }}</span>
 			</a>
 			{{- end }}
 			{{- with .PrevInSection }}
 			<a class="prev-post" href="{{ .Permalink }}">
-				<span>{{ .Title }}</span>
+				<span class="post-nav-label">{{- if fileExists "i18n" -}} {{ i18n "older" }} {{- else -}}  {{- end -}}&nbsp;{{- partial "svg.html" (dict "context" . "name" "previous") -}}</span><br><span>{{ .Title }}</span>
 			</a>
 			{{- end }}
 		</div>
