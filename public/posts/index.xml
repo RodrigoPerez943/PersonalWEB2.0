@@ -1,6 +1,33 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/</link><description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>%!s(&lt;nil>)</description><content type="html">&lt;p>El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia
-artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.&lt;/p>
-</content></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>Un proyecto universitario que incluye un jukebox y un stylophone hecho a medida usando un STM32.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title>
+		<link>http://localhost:1313/PersonalWEB2.0/posts/</link>
+		<description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>es-ES</language>
+		<lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate>
+		<atom:link href="http://localhost:1313/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>¿Qué es BrainMade?</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/brainmade/</link>
+			<pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/brainmade/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia
+artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>STYLO-BOX</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/stylo-box/</link>
+			<pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/stylo-box/</guid>
+			<description><![CDATA[Un proyecto universitario que incluye un jukebox y un stylophone hecho a medida usando un STM32.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
 <p>Este proyecto fue realizado para la asignatura de Sistemas Digitales 2 en la universidad. El proyecto consistía en una parte obligatoria que requería crear un Jukebox con un STM32 en lenguaje C. En la parte final opcional, decidí hacer un &ldquo;stylophone&rdquo; creando las piezas a partir de sensores, con la opción de subir y bajar de octava.</p>
 <p>Recibí la insignia de &ldquo;Proyecto con Mejor diseño Hardware&rdquo; gracias a este proyecto.</p>
 <p><img src="/PersonalWEB2.0/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
@@ -16,7 +43,17 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">Visitar en Github</a></div>
     </aside>
-]]></content></item><item><title>Modelos 3D</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</guid><description>Creación de modelos 3D para imprimir, incluyendo piezas útiles como pilas genéricas y motores.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="Modelos 3D"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Modelos 3D</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/modelos3d/</link>
+			<pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/modelos3d/</guid>
+			<description><![CDATA[Creación de modelos 3D para imprimir, incluyendo piezas útiles como pilas genéricas y motores.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="Modelos 3D"></p>
 <p>He creado algunos modelos en 3D para imprimir. Subo aquellos que pueden ser útiles, como pilas genéricas o motores.</p>
 
     <aside class="admonition info">
@@ -30,7 +67,17 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">Visitar en Github</a></div>
     </aside>
-]]></content></item><item><title>SPO32</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid><description>Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>SPO32</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/spo32/</link>
+			<pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/spo32/</guid>
+			<description><![CDATA[Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
 <p>Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Las funcionalidades implementadas son las siguientes:</p>
 <ul>
 <li><strong>Reloj digital</strong> con la temperatura actual, máxima y mínima del día.</li>
@@ -49,9 +96,29 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/ESPO32">Visitar en Github</a></div>
     </aside>
-]]></content></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.</description><content type="html"><![CDATA[<p>Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/hackathon/</link>
+			<pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/hackathon/</guid>
+			<description><![CDATA[Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.]]></description>
+			<content type="html"><![CDATA[<p>Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial.</p>
 <p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
-]]></content></item><item><title>AUTO-YT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</guid><description>Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>AUTO-YT</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/auto-yt/</link>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/auto-yt/</guid>
+			<description><![CDATA[Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
 <p>Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido.</p>
 <p>El programa está diseñado para dos funcionalidades:</p>
 <ul>
@@ -71,11 +138,31 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content">[Visitar en Github - Bajo mantenimiento]</div>
     </aside>
-]]></content></item><item><title>Proyectos Para Empresas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Proyectos Para Empresas</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/proyectos_para_empresas/</link>
+			<pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/proyectos_para_empresas/</guid>
+			<description><![CDATA[Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
 <p><strong>TEXT2QU</strong> es un software privado diseñado para la automatización de la generación de ejercicios de puzzle de programación para cursos telemáticos. Con él, es posible generar cientos de preguntas en cuestión de segundos.</p>
 <p><img src="/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q"></p>
 <p><strong>TEXT2Q</strong> es un software diseñado para la generación automática de preguntas tipo multiple-choice, verdadero o falso, y fill-the-gaps para vídeos educativos. En cuestión de segundos, puede crear cientos de preguntas a partir de vídeos grabados.</p>
-]]></content></item><item><title>EZCALENDAR</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</link><pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</guid><description>Una herramienta en Python para generar calendarios de exámenes en PDF automáticamente.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>EZCALENDAR</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/ezcalendar/</link>
+			<pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/ezcalendar/</guid>
+			<description><![CDATA[Una herramienta en Python para generar calendarios de exámenes en PDF automáticamente.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
 <p>Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora, gracias a este proyecto, puedo generar un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera.</p>
 <p><strong>Ejemplo de un calendario generado</strong><br>
 <img src="/PersonalWEB2.0/images/calendar.png" alt="Calendario"></p>
@@ -91,7 +178,17 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/EZCALENDAR">Visitar en Github</a></div>
     </aside>
-]]></content></item><item><title>Proyectos con Arduino</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</link><pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</guid><description>Diversos proyectos con Arduino que incluyen esquemas circuitales e ideas inspiradoras.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Proyectos con Arduino</title>
+			<link>http://localhost:1313/PersonalWEB2.0/posts/arduino/</link>
+			<pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/PersonalWEB2.0/posts/arduino/</guid>
+			<description><![CDATA[Diversos proyectos con Arduino que incluyen esquemas circuitales e ideas inspiradoras.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
 <p>He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden inspirar a otros.</p>
 
     <aside class="admonition info">
@@ -105,4 +202,8 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/Arduino-Projects">Visitar en Github</a></div>
     </aside>
-]]></content></item></channel></rss>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

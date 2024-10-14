@@ -1,81 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/</link><description>Recent content on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>&lt;p>El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia
-artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.&lt;/p></description></item><item><title>Sobre Mí</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/about/</link><pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/about/</guid><description>&lt;p>¡Hola! Soy Rodrigo Pérez del Pulgar Almodóvar. Soy un apasionado del desarrollo web y la tecnología.&lt;/p>
-&lt;p>Este sitio está dedicado a compartir mis proyectos y experiencias en el mundo de la programación. Si deseas contactarme, no dudes en visitar mis redes sociales o enviar un mensaje a través de la sección de contacto.&lt;/p>
-&lt;h3 id="mis-intereses">Mis intereses&lt;/h3>
-&lt;ul>
-&lt;li>Desarrollo web&lt;/li>
-&lt;li>Programación en Python, JavaScript&lt;/li>
-&lt;li>Tecnologías de código abierto&lt;/li>
-&lt;/ul></description></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX">&lt;/p>
-&lt;p>Este proyecto fue realizado para la asignatura de Sistemas Digitales 2 en la universidad. El proyecto consistía en una parte obligatoria que requería crear un Jukebox con un STM32 en lenguaje C. En la parte final opcional, decidí hacer un &amp;ldquo;stylophone&amp;rdquo; creando las piezas a partir de sensores, con la opción de subir y bajar de octava.&lt;/p>
-&lt;p>Recibí la insignia de &amp;ldquo;Proyecto con Mejor diseño Hardware&amp;rdquo; gracias a este proyecto.&lt;/p></description></item><item><title>Modelos 3D</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/3D.png" alt="Modelos 3D">&lt;/p>
-&lt;p>He creado algunos modelos en 3D para imprimir. Subo aquellos que pueden ser útiles, como pilas genéricas o motores.&lt;/p>
-
- &lt;aside class="admonition info">
- &lt;div class="admonition-title">
- &lt;div class="icon">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
- stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
- &lt;circle cx="12" cy="12" r="10">&lt;/circle>
- &lt;line x1="12" y1="16" x2="12" y2="12">&lt;/line>
- &lt;line x1="12" y1="8" x2="12.01" y2="8">&lt;/line>
- &lt;/svg>&lt;/div>&lt;b>¡Visita el proyecto!&lt;/b>
- &lt;/div>
- &lt;div class="admonition-content">&lt;a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">Visitar en Github&lt;/a>&lt;/div>
- &lt;/aside></description></item><item><title>SPO32</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/SPO32.png" alt="SPO32">&lt;/p>
-&lt;p>Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Las funcionalidades implementadas son las siguientes:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Reloj digital&lt;/strong> con la temperatura actual, máxima y mínima del día.&lt;/li>
-&lt;li>&lt;strong>Controlador de Spotify&lt;/strong> que muestra el tiempo restante de la canción en reproducción, permite cambiar de canción, ir a la anterior y pausarla.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview">Ver Video&lt;/a>&lt;/p></description></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>&lt;p>Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial.&lt;/p>
-&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon">&lt;/p></description></item><item><title>AUTO-YT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT">&lt;/p>
-&lt;p>Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido.&lt;/p>
-&lt;p>El programa está diseñado para dos funcionalidades:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Subir reels de YouTube&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Crear recopilaciones de vídeos&lt;/strong> obtenidos de Instagram.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT">&lt;/p>
-
- &lt;aside class="admonition info">
- &lt;div class="admonition-title">
- &lt;div class="icon">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
- stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
- &lt;circle cx="12" cy="12" r="10">&lt;/circle>
- &lt;line x1="12" y1="16" x2="12" y2="12">&lt;/line>
- &lt;line x1="12" y1="8" x2="12.01" y2="8">&lt;/line>
- &lt;/svg>&lt;/div>&lt;b>¡Visita el proyecto!&lt;/b>
- &lt;/div>
- &lt;div class="admonition-content">[Visitar en Github - Bajo mantenimiento]&lt;/div>
- &lt;/aside></description></item><item><title>Proyectos Para Empresas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU">&lt;/p>
-&lt;p>&lt;strong>TEXT2QU&lt;/strong> es un software privado diseñado para la automatización de la generación de ejercicios de puzzle de programación para cursos telemáticos. Con él, es posible generar cientos de preguntas en cuestión de segundos.&lt;/p>
-&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q">&lt;/p>
-&lt;p>&lt;strong>TEXT2Q&lt;/strong> es un software diseñado para la generación automática de preguntas tipo multiple-choice, verdadero o falso, y fill-the-gaps para vídeos educativos. En cuestión de segundos, puede crear cientos de preguntas a partir de vídeos grabados.&lt;/p></description></item><item><title>EZCALENDAR</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</link><pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR">&lt;/p>
-&lt;p>Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora, gracias a este proyecto, puedo generar un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera.&lt;/p>
-&lt;p>&lt;strong>Ejemplo de un calendario generado&lt;/strong>&lt;br>
-&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/calendar.png" alt="Calendario">&lt;/p>
-
- &lt;aside class="admonition info">
- &lt;div class="admonition-title">
- &lt;div class="icon">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
- stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
- &lt;circle cx="12" cy="12" r="10">&lt;/circle>
- &lt;line x1="12" y1="16" x2="12" y2="12">&lt;/line>
- &lt;line x1="12" y1="8" x2="12.01" y2="8">&lt;/line>
- &lt;/svg>&lt;/div>&lt;b>¡Visita el proyecto!&lt;/b>
- &lt;/div>
- &lt;div class="admonition-content">&lt;a href="https://github.com/RodrigoPerez943/EZCALENDAR">Visitar en Github&lt;/a>&lt;/div>
- &lt;/aside></description></item><item><title>Proyectos con Arduino</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</link><pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</guid><description>&lt;p>&lt;img src="https://rodrigoperez943.github.io/PersonalWEB2.0/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino">&lt;/p>
-&lt;p>He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden inspirar a otros.&lt;/p>
-
- &lt;aside class="admonition info">
- &lt;div class="admonition-title">
- &lt;div class="icon">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
- stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
- &lt;circle cx="12" cy="12" r="10">&lt;/circle>
- &lt;line x1="12" y1="16" x2="12" y2="12">&lt;/line>
- &lt;line x1="12" y1="8" x2="12.01" y2="8">&lt;/line>
- &lt;/svg>&lt;/div>&lt;b>¡Visita el proyecto!&lt;/b>
- &lt;/div>
- &lt;div class="admonition-content">&lt;a href="https://github.com/RodrigoPerez943/Arduino-Projects">Visitar en Github&lt;/a>&lt;/div>
- &lt;/aside></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Pérez del Pulgar Almodóvar</title>
+    <link>http://localhost:1313/PersonalWEB2.0/</link>
+    <description>Recent content on Rodrigo Pérez del Pulgar Almodóvar</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/PersonalWEB2.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es BrainMade?</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/brainmade/</link>
+      <pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/brainmade/</guid>
+      <description>&lt;p&gt;El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia&#xA;artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre Mí</title>
+      <link>http://localhost:1313/PersonalWEB2.0/about/</link>
+      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/about/</guid>
+      <description>&lt;p&gt;¡Hola! Soy Rodrigo Pérez del Pulgar Almodóvar. Soy un apasionado del desarrollo web y la tecnología.&lt;/p&gt;&#xA;&lt;p&gt;Este sitio está dedicado a compartir mis proyectos y experiencias en el mundo de la programación. Si deseas contactarme, no dudes en visitar mis redes sociales o enviar un mensaje a través de la sección de contacto.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mis-intereses&#34;&gt;Mis intereses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desarrollo web&lt;/li&gt;&#xA;&lt;li&gt;Programación en Python, JavaScript&lt;/li&gt;&#xA;&lt;li&gt;Tecnologías de código abierto&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>STYLO-BOX</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/stylo-box/</link>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/stylo-box/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/STYLOBOX.png&#34; alt=&#34;STYLOBOX&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este proyecto fue realizado para la asignatura de Sistemas Digitales 2 en la universidad. El proyecto consistía en una parte obligatoria que requería crear un Jukebox con un STM32 en lenguaje C. En la parte final opcional, decidí hacer un &amp;ldquo;stylophone&amp;rdquo; creando las piezas a partir de sensores, con la opción de subir y bajar de octava.&lt;/p&gt;&#xA;&lt;p&gt;Recibí la insignia de &amp;ldquo;Proyecto con Mejor diseño Hardware&amp;rdquo; gracias a este proyecto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modelos 3D</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/modelos3d/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/modelos3d/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/3D.png&#34; alt=&#34;Modelos 3D&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;He creado algunos modelos en 3D para imprimir. Subo aquellos que pueden ser útiles, como pilas genéricas o motores.&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;aside class=&#34;admonition info&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-title&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;&#xD;&#xA;      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-info&#34;&gt;&#xD;&#xA;      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34;&gt;&lt;/circle&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;16&#34; x2=&#34;12&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;8&#34; x2=&#34;12.01&#34; y2=&#34;8&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/div&gt;&lt;b&gt;¡Visita el proyecto!&lt;/b&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-content&#34;&gt;&lt;a href=&#34;https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects&#34;&gt;Visitar en Github&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/aside&gt;</description>
+    </item>
+    <item>
+      <title>SPO32</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/spo32/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/spo32/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/SPO32.png&#34; alt=&#34;SPO32&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Las funcionalidades implementadas son las siguientes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reloj digital&lt;/strong&gt; con la temperatura actual, máxima y mínima del día.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Controlador de Spotify&lt;/strong&gt; que muestra el tiempo restante de la canción en reproducción, permite cambiar de canción, ir a la anterior y pausarla.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview&#34;&gt;Ver Video&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/hackathon/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/hackathon/</guid>
+      <description>&lt;p&gt;Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/hackathon.jpeg&#34; alt=&#34;Hackathon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AUTO-YT</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/auto-yt/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/auto-yt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/auto-yt.png&#34; alt=&#34;AUTOYT&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido.&lt;/p&gt;&#xA;&lt;p&gt;El programa está diseñado para dos funcionalidades:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Subir reels de YouTube&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Crear recopilaciones de vídeos&lt;/strong&gt; obtenidos de Instagram.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/autpyt.png&#34; alt=&#34;AUTOYT&#34;&gt;&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;aside class=&#34;admonition info&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-title&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;&#xD;&#xA;      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-info&#34;&gt;&#xD;&#xA;      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34;&gt;&lt;/circle&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;16&#34; x2=&#34;12&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;8&#34; x2=&#34;12.01&#34; y2=&#34;8&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/div&gt;&lt;b&gt;¡Visita el proyecto!&lt;/b&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-content&#34;&gt;[Visitar en Github - Bajo mantenimiento]&lt;/div&gt;&#xD;&#xA;    &lt;/aside&gt;</description>
+    </item>
+    <item>
+      <title>Proyectos Para Empresas</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/proyectos_para_empresas/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/proyectos_para_empresas/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/TEXT2QU.png&#34; alt=&#34;TEXT2QU&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TEXT2QU&lt;/strong&gt; es un software privado diseñado para la automatización de la generación de ejercicios de puzzle de programación para cursos telemáticos. Con él, es posible generar cientos de preguntas en cuestión de segundos.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/TEXT2Q.png&#34; alt=&#34;TEXT2Q&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TEXT2Q&lt;/strong&gt; es un software diseñado para la generación automática de preguntas tipo multiple-choice, verdadero o falso, y fill-the-gaps para vídeos educativos. En cuestión de segundos, puede crear cientos de preguntas a partir de vídeos grabados.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EZCALENDAR</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/ezcalendar/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/ezcalendar/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/EZCALENDAR.png&#34; alt=&#34;EZCALENDAR&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora, gracias a este proyecto, puedo generar un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ejemplo de un calendario generado&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/calendar.png&#34; alt=&#34;Calendario&#34;&gt;&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;aside class=&#34;admonition info&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-title&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;&#xD;&#xA;      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-info&#34;&gt;&#xD;&#xA;      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34;&gt;&lt;/circle&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;16&#34; x2=&#34;12&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;8&#34; x2=&#34;12.01&#34; y2=&#34;8&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/div&gt;&lt;b&gt;¡Visita el proyecto!&lt;/b&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-content&#34;&gt;&lt;a href=&#34;https://github.com/RodrigoPerez943/EZCALENDAR&#34;&gt;Visitar en Github&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/aside&gt;</description>
+    </item>
+    <item>
+      <title>Proyectos con Arduino</title>
+      <link>http://localhost:1313/PersonalWEB2.0/posts/arduino/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PersonalWEB2.0/posts/arduino/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/PersonalWEB2.0/PersonalWEB2.0/images/Circuito1.png&#34; alt=&#34;Circuito Arduino&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden inspirar a otros.&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;aside class=&#34;admonition info&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-title&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;&#xD;&#xA;      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-info&#34;&gt;&#xD;&#xA;      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34;&gt;&lt;/circle&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;16&#34; x2=&#34;12&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;8&#34; x2=&#34;12.01&#34; y2=&#34;8&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/div&gt;&lt;b&gt;¡Visita el proyecto!&lt;/b&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-content&#34;&gt;&lt;a href=&#34;https://github.com/RodrigoPerez943/Arduino-Projects&#34;&gt;Visitar en Github&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/aside&gt;</description>
+    </item>
+  </channel>
+</rss>
