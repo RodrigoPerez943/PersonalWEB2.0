@@ -1,0 +1,65 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-ES'
+title = 'Rodrigo Pérez del Pulgar Almodóvar'
+theme = 'hermit-v2'
+
+defaultContentLanguage = "es"
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10
+enableEmoji = true
+
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[params.author]
+  name = "Rodrigo Pérez del Pulgar Almodóvar"
+  about = "/about"
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "2 de January"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"  # Mantén este formato para fecha y hora.
+  descriptionInPosts = true
+  themeColor = "#494f5c"
+  footerCopyright = "Gracias por tu visita!"
+  relatedPosts = true
+  code_copy_button = true
+  scrollToTop = true 
+  readTime = true
+  human = ["single","posts"]
+  readTimeSeparator = "palabras, tiempo de lectura:"
+  shareSocial = true
+  homeSubtitlePrinter = true
+  homeSubtitle = "Bienvenido a mi web! Infórmate sobre mí y visita mis proyectos!"
+  pinned = " "
+
+[[params.socialLinks]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/rodrigoperezalmo"
+
+[[params.socialLinks]]
+  name = "github"
+  url = "https://github.com/RodrigoPerez943"
+
+[[params.socialLinks]]
+name = "email"
+url = "mailto:rodrigoperezalmo@gmail.com"
+
+[menu]
+  [[menu.main]]
+    name = "Proyectos"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Sobre Mí"
+    url = "about/"
+    weight = 20
