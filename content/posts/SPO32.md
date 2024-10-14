@@ -5,7 +5,7 @@ description: "Un proyecto que unifica varias aplicaciones en un solo dispositivo
 draft: false
 ---
 
-![SPO32](/SPO32.png)
+![SPO32](images/SPO32.png)
 
 Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Las funcionalidades implementadas son las siguientes:
 

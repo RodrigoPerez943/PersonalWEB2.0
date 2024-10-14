@@ -40,7 +40,7 @@ expiryDate = ["expiryDate"]
   homeSubtitlePrinter = true
   homeSubtitle = "Bienvenido a mi web! Infórmate sobre mí y visita mis proyectos!"
   pinned = " "
-
+  
 [[params.socialLinks]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/rodrigoperezalmo"
