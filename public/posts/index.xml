@@ -27,10 +27,10 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/stylo-box/</guid>
 			<description><![CDATA[Un proyecto universitario que incluye un jukebox y un stylophone hecho a medida usando un STM32.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/STYLOBOX.png" alt="STYLOBOX"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
 <p>Este proyecto fue realizado para la asignatura de Sistemas Digitales 2 en la universidad. El proyecto consistía en una parte obligatoria que requería crear un Jukebox con un STM32 en lenguaje C. En la parte final opcional, decidí hacer un &ldquo;stylophone&rdquo; creando las piezas a partir de sensores, con la opción de subir y bajar de octava.</p>
 <p>Recibí la insignia de &ldquo;Proyecto con Mejor diseño Hardware&rdquo; gracias a este proyecto.</p>
-<p><img src="/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
+<p><img src="/PersonalWEB2.0/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -53,7 +53,7 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/modelos3d/</guid>
 			<description><![CDATA[Creación de modelos 3D para imprimir, incluyendo piezas útiles como pilas genéricas y motores.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/3D.png" alt="Modelos 3D"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="Modelos 3D"></p>
 <p>He creado algunos modelos en 3D para imprimir. Subo aquellos que pueden ser útiles, como pilas genéricas o motores.</p>
 
     <aside class="admonition info">
@@ -77,7 +77,7 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/spo32/</guid>
 			<description><![CDATA[Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/SPO32.png" alt="SPO32"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
 <p>Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Las funcionalidades implementadas son las siguientes:</p>
 <ul>
 <li><strong>Reloj digital</strong> con la temperatura actual, máxima y mínima del día.</li>
@@ -107,7 +107,7 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/hackathon/</guid>
 			<description><![CDATA[Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.]]></description>
 			<content type="html"><![CDATA[<p>Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial.</p>
-<p><img src="/images/hackathon.jpeg" alt="Hackathon"></p>
+<p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
 ]]></content>
 		</item>
 		
@@ -118,14 +118,14 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/auto-yt/</guid>
 			<description><![CDATA[Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/auto-yt.png" alt="AUTOYT"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
 <p>Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido.</p>
 <p>El programa está diseñado para dos funcionalidades:</p>
 <ul>
 <li><strong>Subir reels de YouTube</strong></li>
 <li><strong>Crear recopilaciones de vídeos</strong> obtenidos de Instagram.</li>
 </ul>
-<p><img src="/images/autpyt.png" alt="AUTOYT"></p>
+<p><img src="/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT"></p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -148,9 +148,9 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/proyectos_para_empresas/</guid>
 			<description><![CDATA[Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/TEXT2QU.png" alt="TEXT2QU"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
 <p><strong>TEXT2QU</strong> es un software privado diseñado para la automatización de la generación de ejercicios de puzzle de programación para cursos telemáticos. Con él, es posible generar cientos de preguntas en cuestión de segundos.</p>
-<p><img src="/images/TEXT2Q.png" alt="TEXT2Q"></p>
+<p><img src="/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q"></p>
 <p><strong>TEXT2Q</strong> es un software diseñado para la generación automática de preguntas tipo multiple-choice, verdadero o falso, y fill-the-gaps para vídeos educativos. En cuestión de segundos, puede crear cientos de preguntas a partir de vídeos grabados.</p>
 ]]></content>
 		</item>
@@ -162,10 +162,10 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/ezcalendar/</guid>
 			<description><![CDATA[Una herramienta en Python para generar calendarios de exámenes en PDF automáticamente.]]></description>
-			<content type="html"><![CDATA[<p><img src="/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
 <p>Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora, gracias a este proyecto, puedo generar un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera.</p>
 <p><strong>Ejemplo de un calendario generado</strong><br>
-<img src="/images/calendar.png" alt="Calendario"></p>
+<img src="/PersonalWEB2.0/images/calendar.png" alt="Calendario"></p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -188,7 +188,7 @@ artificial como herramienta es genial, pero no debe ser un sustituto de la creac
 			
 			<guid>http://localhost:1313/PersonalWEB2.0/posts/arduino/</guid>
 			<description><![CDATA[Diversos proyectos con Arduino que incluyen esquemas circuitales e ideas inspiradoras.]]></description>
-			<content type="html"><![CDATA[<p><img src="images/Circuito1.png" alt="Circuito Arduino"></p>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
 <p>He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden inspirar a otros.</p>
 
     <aside class="admonition info">

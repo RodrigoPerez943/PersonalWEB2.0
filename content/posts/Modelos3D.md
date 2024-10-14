@@ -5,7 +5,7 @@ description: "Creación de modelos 3D para imprimir, incluyendo piezas útiles c
 draft: false
 ---
 
-![Modelos 3D](/images/3D.png)
+![Modelos 3D](/PersonalWEB2.0/images/3D.png)
 
 He creado algunos modelos en 3D para imprimir. Subo aquellos que pueden ser útiles, como pilas genéricas o motores.
 
