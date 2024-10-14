@@ -1,2 +1,2 @@
 # PersonalWEB2.0
- My oersonal Web
+ My personal Web
