@@ -6,14 +6,11 @@ draft: false
 ---
 ![EZCALENDAR](/PersonalWEB2.0/images/EZCALENDAR.png)
 
-Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora genero un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera. Su uso es muy fácil, incluyes las fechas de los dias en los que tienes los eventos y sus nombres, presionas enter y tienes un pdf en formato de anchura A4 y altura en función de los eventos y los días restantes a los eventos. Échale un Vistazo en Github!
+Desarrollé este programa en **Python** porque siempre hacía los calendarios de exámenes a mano. Con **EZCALENDAR**, ahora puedo generar un calendario en **PDF** listo para imprimir, con los días restantes hasta las fechas de los exámenes que necesito. Su uso es muy sencillo: simplemente introduces las fechas de los exámenes y sus nombres, presionas **Enter**, ¡y obtienes un PDF en formato A4! La altura del documento se ajusta en función de la cantidad de eventos y los días restantes hasta esos eventos.
 
 **Ejemplo de un calendario generado**  
 ![Calendario](/PersonalWEB2.0/images/calendar.png)
 
 {{< admonition info "¡Visita el proyecto!" >}}
-[Visitar en Github](https://github.com/RodrigoPerez943/EZCALENDAR)
+[Ver en GitHub](https://github.com/RodrigoPerez943/EZCALENDAR)
 {{< /admonition >}}
-
-
-

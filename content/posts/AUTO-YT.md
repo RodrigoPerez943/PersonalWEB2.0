@@ -6,21 +6,24 @@ draft: false
 ---
 ![AUTOYT](/PersonalWEB2.0/images/auto-yt.png)
 
-Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido. 
+Quería investigar la monetización en **YouTube** mediante la creación de un canal automatizado. Utilizando la **API de Google para YouTube** y algunas técnicas de **scraping**, logré generar contenido en pocos minutos, sin necesidad de edición ni búsqueda manual de contenido.
 
-Para su funcionamineto se debe incluir tus credenciales de una cuenta de instagram para poder obtener los videos de las cuentas a las que se sigues.También es necesaria la cuenta de Google del canal en el que queremos subir los vídeos, siendo necesaria una cuenta de desarrolador. El programa guarda en una base de datos los identificadores para los vídeos subidos, al obtener los posibles vídeos a subir se checkean con la base de datos para ver si con anterioridad se han subido.
+### Funcionamiento
 
-Hay dos opciones: 
+Para su correcto funcionamiento, se deben incluir las credenciales de una cuenta de **Instagram** para obtener vídeos de las cuentas seguidas. También es necesario tener acceso a la **cuenta de Google** del canal en el que se subirán los vídeos, además de una **cuenta de desarrollador** para autenticarse. El programa guarda en una base de datos los identificadores de los vídeos subidos, y cuando se buscan nuevos vídeos para subir, se verifica si ya han sido subidos previamente.
 
-- **Subir un YouTube Short**: El programa se inicia y busca los vídeos de formato vertical en las cuentas seguidas, obtiene nombres y checkea con la base de datos a ver si han sido subidos a Shorts o a una compilación de vídeos. Es importante que no duren más de 1 minuto, por lo que tengan mayor duración también se descartaran. Puedes ser que no haya ningun vídeo nuevo, por lo que el programa acabará su ejecución. Después de encontrar un vídeo que haya pasado todas las normas, se pasará al ususrio un link por consola para confirmar que ese vídeo le parece bien. Una vez confirmado se procede a la subida del vídeo. Es importante modificar los diferentes ajustes para modificar el nombre, generarlo de forma automática o modificar su descripcción. Un vez acabado este proceso el Short se subirá en cuestión de segundos.
+### Opciones disponibles
 
-- **Crear recopilaciones de vídeos**: Si elegimos esta opción, elegiremos el número de videos que queremos scrapear de las cuentas que seguimos en Instagram, en caso de que queramos añadir un intro/outro a la compilación lo inidicaremos en los ajustes del programa. Al igual que con los shorts, debemos indicar o generar de forma automática los nombres de los vídeos y sus descripcciones. El proceso es práticamente idéntico, un poco más lento ya que el montaje de los vídeos y el formateado se lleva a cabo con la librería MoviePy, la cual no es especialmente eficiente.
+1. **Subir un YouTube Short**:  
+   El programa busca vídeos en formato vertical en las cuentas de Instagram seguidas. Se obtiene el nombre del vídeo y se verifica en la base de datos si ya ha sido subido. Si el vídeo dura menos de 1 minuto y cumple con los requisitos, se muestra un enlace en la consola para que el usuario confirme si desea subirlo. Tras la confirmación, el vídeo se sube automáticamente a **YouTube Shorts**. Es importante ajustar el nombre y la descripción del vídeo antes de la subida.
 
-Visítalo en GitHub y echa un vistazo al código!
+2. **Crear recopilaciones de vídeos**:  
+   Esta opción permite seleccionar varios vídeos para crear una compilación. Puedes elegir cuántos vídeos scrapear de las cuentas seguidas en Instagram, y si deseas añadir una intro/outro al vídeo, lo indicas en los ajustes del programa. El proceso es similar al de los Shorts, pero un poco más lento, ya que la edición y el formateo de los vídeos se realiza con **MoviePy**, una librería que, aunque funcional, no es la más rápida.
+
+Visítalo en **GitHub** y echa un vistazo al código!
 
 ![AUTOYT](/PersonalWEB2.0/images/autpyt.png)
 
 {{< admonition info "¡Visita el proyecto!" >}}
 [Visitar en Github - Bajo mantenimiento]
 {{< /admonition >}}
-

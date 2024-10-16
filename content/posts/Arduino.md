@@ -6,11 +6,8 @@ draft: false
 ---
 ![Circuito Arduino](/PersonalWEB2.0/images/Circuito1.png)
 
-He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden ser útiles para inspirarse en ellos. No tengo muy actualizada la carpeta ya que últimamente no utilizo mucho Arduino...
+He realizado varios **proyectos con Arduino**. Algunos de ellos incluyen **esquemas circuitales** que pueden servir de inspiración para otros desarrolladores o aficionados a la electrónica. Aunque la carpeta de proyectos no está muy actualizada últimamente, ya que no he trabajado mucho con Arduino recientemente, sigue siendo una buena fuente de ideas interesantes.
 
 {{< admonition info "¡Visita el proyecto!" >}}
-[Visitar en Github](https://github.com/RodrigoPerez943/Arduino-Projects)
+[Ver en GitHub](https://github.com/RodrigoPerez943/Arduino-Projects)
 {{< /admonition >}}
-
-
-

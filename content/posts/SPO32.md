@@ -7,17 +7,17 @@ draft: false
 
 ![SPO32](/PersonalWEB2.0/images/SPO32.png)
 
-Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Me molestaba bastnate cambiar de ventana en el portatil siempre que quería cambia de canción en Spotify o ver el tiempo que hacía. Las funcionalidades implementadas son las siguientes:
+Este proyecto es el más complejo y extenso que he realizado hasta ahora. La idea surgió de la necesidad de unificar varias tareas que realizaba a diario en diferentes aplicaciones, en un único dispositivo. Me resultaba bastante incómodo tener que cambiar de ventana en el portátil cada vez que quería cambiar de canción en **Spotify** o consultar el clima. Las funcionalidades implementadas incluyen:
 
-- **Reloj digital** con la temperatura actual, máxima y mínima del día.
-- **Controlador de Spotify** que muestra el tiempo restante de la canción en reproducción, la información de la canción, permite cambiarla, ir a la anterior y pausarla. 
+- Un **reloj digital** que muestra la temperatura actual, junto con las temperaturas máxima y mínima del día.
+- Un **controlador de Spotify** que muestra el tiempo restante de la canción en reproducción, información detallada de la canción, y permite cambiar, retroceder o pausar la reproducción.
 
-El primer gran problema que tuve, fue que quería usar dos pantallas. Pero al parecer los registros que usan las pantallas LCD suelen ser el mismo por lo que no se pueden unir las dos a la vez al mismo ESP, por lo que tuve que usar un multiplexor. El ESP-32 se conecta por WI-FI a un API de la cual obtiene el tiempo en mi ubicación, otra API de la cual obtiene la hora actual y por último a la API de Spotify para poder controlar la música. Para el cambio de panatalla uso un botón y para el cambio de los controles utilizo un Rotatory Encoder. Échale un vistazo al vídeo de demostración o visítalo en GitHub!
- 
-[Ver Video](https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview)
+El primer gran desafío fue que quería usar dos pantallas LCD simultáneamente. Sin embargo, descubrí que los registros de estas pantallas suelen ser los mismos, por lo que no podían conectarse al mismo **ESP32** al mismo tiempo. La solución fue utilizar un **multiplexor** para gestionarlo. El **ESP32** se conecta a varias **APIs**: una para obtener el clima de mi ubicación, otra para la hora actual, y finalmente la API de **Spotify** para controlar la música. 
+
+El cambio entre las pantallas se realiza mediante un botón, y para controlar la música uso un **Rotary Encoder**. Te invito a echar un vistazo al **video de demostración** o visitar el proyecto en **GitHub**.
+
+[Ver Vídeo](https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview)
 
 {{< admonition info "¡Visita el proyecto!" >}}
-[Visitar en Github](https://github.com/RodrigoPerez943/ESPO32)
+[Ver en GitHub](https://github.com/RodrigoPerez943/ESPO32)
 {{< /admonition >}}
-
-

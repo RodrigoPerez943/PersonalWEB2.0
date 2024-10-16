@@ -9,4 +9,4 @@ tags:
   - untagged
 ---
 
-El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.
+El logo que aparece en todos los posts y en la sección de "Sobre mí" indica que esta página ha sido creada por un humano, y no por una herramienta generativa. La inteligencia artificial es una herramienta fantástica, pero no debería sustituir la creación personal. Si deseas obtener más información sobre esta iniciativa, puedes visitar la web haciendo clic en el ícono "Brain Made".

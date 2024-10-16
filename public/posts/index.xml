@@ -1,7 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/</link><description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>%!s(&lt;nil>)</description><content type="html">&lt;p>El logo que aparece en todos los posts y en la seccion de sobre mí indica que esta página esta creada por un humano, y no por una herramienta generativa. El uso de la inteligencia artificial como herramienta es genial, pero no debe ser un sustituto de la creación personal. Puedes visitar la web clicando el icono para informarte más sobre esta iniciativa.&lt;/p>
-</content></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>Un proyecto universitario que incluye un jukebox y un stylophone hecho a medida usando un STM32.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
-<p>Este proyecto fue realizado para la asignatura de Sistemas Digitales 2 en mi universidad. El proyecto consistía en una parte obligatoria que requería crear un Jukebox con un STM32 en lenguaje C. En la parte final opcional, decidí hacer un &ldquo;stylophone&rdquo; creando las piezas a partir de sensores, con la opción de subir y bajar de octava. Mi propuesta final fue un infierno de implementar, el progeama principal funcionaba a traves de maquinas de estados y manejando registros.Esto era asi porque como nos dieran la biblioteca HAL que hace que porgramar en C sea casi como programar en Arduino no parenderíamos nada.</p>
-<p>Recibí la insignia de &ldquo;Proyecto con Mejor diseño Hardware&rdquo; gracias a este proyecto.</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/</link><description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>%!s(&lt;nil>)</description><content type="html"><![CDATA[<p>El logo que aparece en todos los posts y en la sección de &ldquo;Sobre mí&rdquo; indica que esta página ha sido creada por un humano, y no por una herramienta generativa. La inteligencia artificial es una herramienta fantástica, pero no debería sustituir la creación personal. Si deseas obtener más información sobre esta iniciativa, puedes visitar la web haciendo clic en el ícono &ldquo;Brain Made&rdquo;.</p>
+]]></content></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>Un proyecto universitario que incluye un jukebox y un stylophone personalizado, utilizando un STM32.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
+<p>Este proyecto fue desarrollado como parte de la asignatura <strong>Sistemas Digitales 2</strong> en mi universidad. La tarea principal consistía en crear un <strong>Jukebox</strong> empleando un microcontrolador <strong>STM32</strong> y programándolo en <strong>lenguaje C</strong>.</p>
+<p>Para la parte opcional del proyecto, decidí añadir un desafío adicional: construir un <strong>stylophone</strong> personalizado. Creé las piezas usando sensores, permitiendo funciones como cambiar entre diferentes octavas. La implementación final fue bastante compleja, ya que el programa principal se estructuraba en torno a <strong>máquinas de estado</strong> y gestión de registros, todo sin el uso de la <strong>biblioteca HAL</strong>. La razón detrás de esto es que el objetivo del curso era aprender a bajo nivel, y programar con HAL hubiera facilitado demasiado el desarrollo, similar a cómo se programa en <strong>Arduino</strong>.</p>
+<p>A pesar de las dificultades, el proyecto fue un éxito y me otorgaron la <strong>insignia al Mejor Diseño de Hardware</strong>.</p>
+<p>Puedes explorar el código del proyecto en mi repositorio de <strong>GitHub</strong>.</p>
 <p><img src="/PersonalWEB2.0/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
 
     <aside class="admonition info">
@@ -13,10 +15,11 @@
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">Visitar en Github</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">Ver en GitHub</a></div>
     </aside>
 ]]></content></item><item><title>Modelos 3D</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</guid><description>Creación de modelos 3D para imprimir, incluyendo piezas útiles como pilas genéricas y motores.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="Modelos 3D"></p>
-<p>He creado algunos modelos en 3D para imprimir, estan hechos con la aplicación de diseño en línea de CAD llamado On-Shape. Hice un curso que ofrecían de forma gratuita y con él aprendi todo lo que necesitaba saber. Subo los modelos que pueden ser útiles, como pilas genéricas o motores. A ver si en el futuro me compro un escaner para poder agilizar el trabajo un poco que hay veces que cuando intentas replicar un modelo para repararlo estas siglos&hellip;</p>
+<p>He creado varios <strong>modelos en 3D</strong> para imprimir, utilizando la aplicación de diseño CAD en línea llamada <strong>On-Shape</strong>. Aproveché un curso gratuito que ofrecían, y gracias a él, aprendí todo lo necesario para diseñar piezas útiles.</p>
+<p>Subo a <strong>GitHub</strong> aquellos modelos que pueden ser de utilidad, como <strong>pilas genéricas</strong> o <strong>motores</strong>. En el futuro, espero poder adquirir un <strong>escáner 3D</strong> para agilizar el proceso, ya que replicar modelos para reparaciones manualmente puede llegar a ser muy lento.</p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -27,16 +30,17 @@
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">Visitar en Github</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">Ver en GitHub</a></div>
     </aside>
 ]]></content></item><item><title>SPO32</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid><description>Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
-<p>Este proyecto es el más complejo y extenso que he realizado. La idea surgió porque quería unificar varias acciones que realizaba todos los días en diferentes aplicaciones en un único dispositivo. Me molestaba bastnate cambiar de ventana en el portatil siempre que quería cambia de canción en Spotify o ver el tiempo que hacía. Las funcionalidades implementadas son las siguientes:</p>
+<p>Este proyecto es el más complejo y extenso que he realizado hasta ahora. La idea surgió de la necesidad de unificar varias tareas que realizaba a diario en diferentes aplicaciones, en un único dispositivo. Me resultaba bastante incómodo tener que cambiar de ventana en el portátil cada vez que quería cambiar de canción en <strong>Spotify</strong> o consultar el clima. Las funcionalidades implementadas incluyen:</p>
 <ul>
-<li><strong>Reloj digital</strong> con la temperatura actual, máxima y mínima del día.</li>
-<li><strong>Controlador de Spotify</strong> que muestra el tiempo restante de la canción en reproducción, la información de la canción, permite cambiarla, ir a la anterior y pausarla.</li>
+<li>Un <strong>reloj digital</strong> que muestra la temperatura actual, junto con las temperaturas máxima y mínima del día.</li>
+<li>Un <strong>controlador de Spotify</strong> que muestra el tiempo restante de la canción en reproducción, información detallada de la canción, y permite cambiar, retroceder o pausar la reproducción.</li>
 </ul>
-<p>El primer gran problema que tuve, fue que quería usar dos pantallas. Pero al parecer los registros que usan las pantallas LCD suelen ser el mismo por lo que no se pueden unir las dos a la vez al mismo ESP, por lo que tuve que usar un multiplexor. El ESP-32 se conecta por WI-FI a un API de la cual obtiene el tiempo en mi ubicación, otra API de la cual obtiene la hora actual y por último a la API de Spotify para poder controlar la música. Para el cambio de panatalla uso un botón y para el cambio de los controles utilizo un Rotatory Encoder. Échale un vistazo al vídeo de demostración o visítalo en GitHub!</p>
-<p><a href="https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview">Ver Video</a></p>
+<p>El primer gran desafío fue que quería usar dos pantallas LCD simultáneamente. Sin embargo, descubrí que los registros de estas pantallas suelen ser los mismos, por lo que no podían conectarse al mismo <strong>ESP32</strong> al mismo tiempo. La solución fue utilizar un <strong>multiplexor</strong> para gestionarlo. El <strong>ESP32</strong> se conecta a varias <strong>APIs</strong>: una para obtener el clima de mi ubicación, otra para la hora actual, y finalmente la API de <strong>Spotify</strong> para controlar la música.</p>
+<p>El cambio entre las pantallas se realiza mediante un botón, y para controlar la música uso un <strong>Rotary Encoder</strong>. Te invito a echar un vistazo al <strong>video de demostración</strong> o visitar el proyecto en <strong>GitHub</strong>.</p>
+<p><a href="https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview">Ver Vídeo</a></p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -47,24 +51,36 @@
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/ESPO32">Visitar en Github</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/ESPO32">Ver en GitHub</a></div>
     </aside>
-]]></content></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.</description><content type="html"><![CDATA[<p>Tuve el placer de participar en un Hackathon de 3 días en mi universidad, en el cual desarrollamos modelos de machine learning para predecir notas de IMDB. Aprendí habilidades nuevas como el procesamiento de imágenes y el funcionamiento de modelos de inteligencia artificial. El hackathon constaba de dos fases, la primera era sobre adivinar la posible nota según las porpiedades de las peliculas (actores, categoria, edad, año , deuracion&hellip;). Nos dieron un dataset con  aprox 10000 películas y debíamos a entrenar nuestros modelos con ella. La verdad no tenía ni idea de como hacer las cosas y la  mayoría de tiempo fue intentar encntrar la forma de procesar, filtrar y entrenar el modelo.
-La segunda parte trataba sobre la misma prediccion pero esta vez con los posters de la película, aqui entro el procesamiento de imagenes. La forma en la que se me ocurrió era analizando los pixeles de cada foto y sacando los tres tonos más repetidos (verdosos, rojizos, amarillentos) y luego con ello intentar encontrar la relacion entre estos colores y el dataset correcto propuesto. Aunque ññlos resultados no fueron especialmente buenos, aprendimos bastante. Los ganadores de nuestro grupo, ya que se realizaba en múltiples ciudades de europa, luego fueron los ganadores en la final europea. Eran unas máquinas la verdad. Fue una experiencia muy cansada aunque aprendi un monton de cosas.</p>
+]]></content></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.</description><content type="html"><![CDATA[<p>Tuve el placer de participar en un <strong>Hackathon</strong> de 3 días en mi universidad, donde desarrollamos modelos de <strong>machine learning</strong> para predecir las calificaciones de películas en <strong>IMDB</strong>. Durante este evento, adquirí nuevas habilidades como el <strong>procesamiento de imágenes</strong> y profundicé en el funcionamiento de los <strong>modelos de inteligencia artificial</strong>.</p>
+<p>El hackathon constaba de dos fases:</p>
+<ol>
+<li>
+<p><strong>Predicción de calificaciones de películas</strong>: La primera fase consistía en predecir la posible calificación de una película según sus propiedades (actores, categoría, año, duración, etc.). Nos proporcionaron un <strong>dataset</strong> de aproximadamente 10,000 películas y debíamos entrenar nuestros modelos con él. A pesar de no tener mucha experiencia previa, dediqué la mayor parte del tiempo a entender cómo procesar, filtrar y entrenar el modelo con estos datos.</p>
+</li>
+<li>
+<p><strong>Predicción usando posters de películas</strong>: En la segunda fase, el desafío era similar, pero esta vez utilizando los <strong>posters</strong> de las películas. Aquí es donde entró en juego el procesamiento de imágenes. Mi enfoque fue analizar los <strong>píxeles</strong> de cada imagen y extraer los tres colores más repetidos (tonos verdosos, rojizos y amarillentos). Posteriormente, tratamos de encontrar una relación entre estos colores y el dataset proporcionado. Aunque los resultados no fueron especialmente destacados, fue una excelente oportunidad de aprendizaje.</p>
+</li>
+</ol>
+<p>Los ganadores de nuestra sede, que participaron en la final europea, demostraron un nivel impresionante. Fue una experiencia extenuante, pero al mismo tiempo, enriquecedora y llena de nuevos aprendizajes.</p>
 <p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
 ]]></content></item><item><title>AUTO-YT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</guid><description>Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
-<p>Quería investigar la monetización de YouTube mediante la creación de un canal automatizado. Con la API de Google para YouTube y algo de scraping, conseguí generar contenido en pocos minutos, sin necesidad de editar ni buscar contenido.</p>
-<p>Para su funcionamineto se debe incluir tus credenciales de una cuenta de instagram para poder obtener los videos de las cuentas a las que se sigues.También es necesaria la cuenta de Google del canal en el que queremos subir los vídeos, siendo necesaria una cuenta de desarrolador. El programa guarda en una base de datos los identificadores para los vídeos subidos, al obtener los posibles vídeos a subir se checkean con la base de datos para ver si con anterioridad se han subido.</p>
-<p>Hay dos opciones:</p>
-<ul>
+<p>Quería investigar la monetización en <strong>YouTube</strong> mediante la creación de un canal automatizado. Utilizando la <strong>API de Google para YouTube</strong> y algunas técnicas de <strong>scraping</strong>, logré generar contenido en pocos minutos, sin necesidad de edición ni búsqueda manual de contenido.</p>
+<h3 id="funcionamiento">Funcionamiento</h3>
+<p>Para su correcto funcionamiento, se deben incluir las credenciales de una cuenta de <strong>Instagram</strong> para obtener vídeos de las cuentas seguidas. También es necesario tener acceso a la <strong>cuenta de Google</strong> del canal en el que se subirán los vídeos, además de una <strong>cuenta de desarrollador</strong> para autenticarse. El programa guarda en una base de datos los identificadores de los vídeos subidos, y cuando se buscan nuevos vídeos para subir, se verifica si ya han sido subidos previamente.</p>
+<h3 id="opciones-disponibles">Opciones disponibles</h3>
+<ol>
 <li>
-<p><strong>Subir un YouTube Short</strong>: El programa se inicia y busca los vídeos de formato vertical en las cuentas seguidas, obtiene nombres y checkea con la base de datos a ver si han sido subidos a Shorts o a una compilación de vídeos. Es importante que no duren más de 1 minuto, por lo que tengan mayor duración también se descartaran. Puedes ser que no haya ningun vídeo nuevo, por lo que el programa acabará su ejecución. Después de encontrar un vídeo que haya pasado todas las normas, se pasará al ususrio un link por consola para confirmar que ese vídeo le parece bien. Una vez confirmado se procede a la subida del vídeo. Es importante modificar los diferentes ajustes para modificar el nombre, generarlo de forma automática o modificar su descripcción. Un vez acabado este proceso el Short se subirá en cuestión de segundos.</p>
+<p><strong>Subir un YouTube Short</strong>:<br>
+El programa busca vídeos en formato vertical en las cuentas de Instagram seguidas. Se obtiene el nombre del vídeo y se verifica en la base de datos si ya ha sido subido. Si el vídeo dura menos de 1 minuto y cumple con los requisitos, se muestra un enlace en la consola para que el usuario confirme si desea subirlo. Tras la confirmación, el vídeo se sube automáticamente a <strong>YouTube Shorts</strong>. Es importante ajustar el nombre y la descripción del vídeo antes de la subida.</p>
 </li>
 <li>
-<p><strong>Crear recopilaciones de vídeos</strong>: Si elegimos esta opción, elegiremos el número de videos que queremos scrapear de las cuentas que seguimos en Instagram, en caso de que queramos añadir un intro/outro a la compilación lo inidicaremos en los ajustes del programa. Al igual que con los shorts, debemos indicar o generar de forma automática los nombres de los vídeos y sus descripcciones. El proceso es práticamente idéntico, un poco más lento ya que el montaje de los vídeos y el formateado se lleva a cabo con la librería MoviePy, la cual no es especialmente eficiente.</p>
+<p><strong>Crear recopilaciones de vídeos</strong>:<br>
+Esta opción permite seleccionar varios vídeos para crear una compilación. Puedes elegir cuántos vídeos scrapear de las cuentas seguidas en Instagram, y si deseas añadir una intro/outro al vídeo, lo indicas en los ajustes del programa. El proceso es similar al de los Shorts, pero un poco más lento, ya que la edición y el formateo de los vídeos se realiza con <strong>MoviePy</strong>, una librería que, aunque funcional, no es la más rápida.</p>
 </li>
-</ul>
-<p>Visítalo en GitHub y echa un vistazo al código!</p>
+</ol>
+<p>Visítalo en <strong>GitHub</strong> y echa un vistazo al código!</p>
 <p><img src="/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT"></p>
 
     <aside class="admonition info">
@@ -78,14 +94,16 @@ La segunda parte trataba sobre la misma prediccion pero esta vez con los posters
         </div>
         <div class="admonition-content">[Visitar en Github - Bajo mantenimiento]</div>
     </aside>
-]]></content></item><item><title>Proyectos Para Empresas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.</description><content type="html"><![CDATA[<p>Trabajando para SAWY he creado dos programas principales los cuales mejoran en gran cantidad la eficiencia del workflow anterior. Los dos programas son:</p>
+]]></content></item><item><title>Proyectos Para Empresas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.</description><content type="html"><![CDATA[<p>Trabajando para <strong>SAWY</strong>, he desarrollado dos programas principales que han mejorado significativamente la eficiencia del flujo de trabajo anterior. Estos programas son:</p>
 <p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
-<p><strong>TEXT2QU</strong> es un software privado diseñado para la automatización de la generación de ejercicios de puzzle de programación para cursos telemáticos. Con él, es posible generar cientos de preguntas en cuestión de segundos.</p>
+<h3 id="text2qu"><strong>TEXT2QU</strong></h3>
+<p><strong>TEXT2QU</strong> es un software privado diseñado para automatizar la generación de ejercicios de programación estilo puzzle para cursos en línea. Con esta herramienta, es posible generar cientos de preguntas en solo segundos, optimizando la creación de contenido educativo.</p>
 <p><img src="/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q"></p>
-<p><strong>TEXT2Q</strong> es un software diseñado para la generación automática de preguntas tipo multiple-choice, verdadero o falso, y fill-the-gaps para vídeos educativos. En cuestión de segundos, puede crear cientos de preguntas a partir de vídeos grabados.</p>
-<p>Al ser provados no puedo decir mucho sobre ellos, los programé en python y usando las bibliotecas de Pandas y OpenAI los programas son capaces de generar los excells correspondientes. Es verdad que los documentos neecsitan un poco de postprocesado ya que a veces alucina un poco generando las preguntas, pero comparado con antes no hay color al tiempo de generación de ejercicios ( que se hacia manualmente&hellip;).</p>
+<h3 id="text2q"><strong>TEXT2Q</strong></h3>
+<p><strong>TEXT2Q</strong> es una herramienta enfocada en la creación automática de preguntas tipo <em>multiple-choice</em>, verdadero o falso, y <em>fill-the-gaps</em> a partir de vídeos educativos. En cuestión de segundos, puede generar cientos de preguntas basadas en el contenido de los vídeos grabados.</p>
+<p>Ambos programas fueron desarrollados en <strong>Python</strong> utilizando las bibliotecas <strong>Pandas</strong> y <strong>OpenAI</strong>. Aunque los documentos generados requieren cierto postprocesado (ya que en ocasiones las preguntas generadas pueden no ser totalmente precisas), el ahorro de tiempo en comparación con la creación manual es enorme.</p>
 ]]></content></item><item><title>EZCALENDAR</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</link><pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</guid><description>Una herramienta en Python para generar calendarios de exámenes en PDF automáticamente.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
-<p>Desarrollé este programa en Python porque siempre hacía los calendarios de exámenes a mano. Ahora genero un calendario en PDF, listo para imprimir, con los días restantes hasta las fechas de los exámenes que quiera. Su uso es muy fácil, incluyes las fechas de los dias en los que tienes los eventos y sus nombres, presionas enter y tienes un pdf en formato de anchura A4 y altura en función de los eventos y los días restantes a los eventos. Échale un Vistazo en Github!</p>
+<p>Desarrollé este programa en <strong>Python</strong> porque siempre hacía los calendarios de exámenes a mano. Con <strong>EZCALENDAR</strong>, ahora puedo generar un calendario en <strong>PDF</strong> listo para imprimir, con los días restantes hasta las fechas de los exámenes que necesito. Su uso es muy sencillo: simplemente introduces las fechas de los exámenes y sus nombres, presionas <strong>Enter</strong>, ¡y obtienes un PDF en formato A4! La altura del documento se ajusta en función de la cantidad de eventos y los días restantes hasta esos eventos.</p>
 <p><strong>Ejemplo de un calendario generado</strong><br>
 <img src="/PersonalWEB2.0/images/calendar.png" alt="Calendario"></p>
 
@@ -98,10 +116,10 @@ La segunda parte trataba sobre la misma prediccion pero esta vez con los posters
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/EZCALENDAR">Visitar en Github</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/EZCALENDAR">Ver en GitHub</a></div>
     </aside>
 ]]></content></item><item><title>Proyectos con Arduino</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</link><pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</guid><description>Diversos proyectos con Arduino que incluyen esquemas circuitales y algunas ideas interesantes.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
-<p>He realizado varios proyectos con Arduino. Algunos incluyen esquemas circuitales que pueden ser útiles para inspirarse en ellos. No tengo muy actualizada la carpeta ya que últimamente no utilizo mucho Arduino&hellip;</p>
+<p>He realizado varios <strong>proyectos con Arduino</strong>. Algunos de ellos incluyen <strong>esquemas circuitales</strong> que pueden servir de inspiración para otros desarrolladores o aficionados a la electrónica. Aunque la carpeta de proyectos no está muy actualizada últimamente, ya que no he trabajado mucho con Arduino recientemente, sigue siendo una buena fuente de ideas interesantes.</p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -112,6 +130,6 @@ La segunda parte trataba sobre la misma prediccion pero esta vez con los posters
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/Arduino-Projects">Visitar en Github</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/Arduino-Projects">Ver en GitHub</a></div>
     </aside>
 ]]></content></item></channel></rss>
