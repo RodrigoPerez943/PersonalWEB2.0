@@ -11,6 +11,9 @@ He creado varios **modelos en 3D** para imprimir, utilizando la aplicación de d
 
 Subo a **GitHub** aquellos modelos que pueden ser de utilidad, como **pilas genéricas** o **motores**. En el futuro, espero poder adquirir un **escáner 3D** para agilizar el proceso, ya que replicar modelos para reparaciones manualmente puede llegar a ser muy lento.
 
+---
+
 {{< admonition info "¡Visita el proyecto!" >}}
 [Ver en GitHub](https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects)
 {{< /admonition >}}
+

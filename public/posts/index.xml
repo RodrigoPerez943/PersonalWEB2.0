@@ -1,10 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/</link><description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sat, 05 Oct 2024 02:13:23 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>%!s(&lt;nil>)</description><content type="html"><![CDATA[<p>El logo que aparece en todos los posts y en la sección de &ldquo;Sobre mí&rdquo; indica que esta página ha sido creada por un humano, y no por una herramienta generativa. La inteligencia artificial es una herramienta fantástica, pero no debería sustituir la creación personal. Si deseas obtener más información sobre esta iniciativa, puedes visitar la web haciendo clic en el ícono &ldquo;Brain Made&rdquo;.</p>
-]]></content></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Wed, 02 Oct 2024 13:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>Un proyecto universitario que incluye un jukebox y un stylophone personalizado, utilizando un STM32.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
-<p>Este proyecto fue desarrollado como parte de la asignatura <strong>Sistemas Digitales 2</strong> en mi universidad. La tarea principal consistía en crear un <strong>Jukebox</strong> empleando un microcontrolador <strong>STM32</strong> y programándolo en <strong>lenguaje C</strong>.</p>
-<p>Para la parte opcional del proyecto, decidí añadir un desafío adicional: construir un <strong>stylophone</strong> personalizado. Creé las piezas usando sensores, permitiendo funciones como cambiar entre diferentes octavas. La implementación final fue bastante compleja, ya que el programa principal se estructuraba en torno a <strong>máquinas de estado</strong> y gestión de registros, todo sin el uso de la <strong>biblioteca HAL</strong>. La razón detrás de esto es que el objetivo del curso era aprender a bajo nivel, y programar con HAL hubiera facilitado demasiado el desarrollo, similar a cómo se programa en <strong>Arduino</strong>.</p>
-<p>A pesar de las dificultades, el proyecto fue un éxito y me otorgaron la <strong>insignia al Mejor Diseño de Hardware</strong>.</p>
-<p>Puedes explorar el código del proyecto en mi repositorio de <strong>GitHub</strong>.</p>
-<p><img src="/PersonalWEB2.0/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rodrigo Pérez del Pulgar Almodóvar</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/</link><description>Recent content in Posts on Rodrigo Pérez del Pulgar Almodóvar</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sat, 19 Oct 2024 21:08:16 +0200</lastBuildDate><atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Páginas Útiles</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/paginasutiles/</link><pubDate>Sat, 19 Oct 2024 21:08:16 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/paginasutiles/</guid><description>Quien sabe, igual encuentras tu nueva página favorita aquí...</description><content type="html"><![CDATA[<h2 id="páginas-útiles-para-mi-día-a-día">Páginas útiles para mi día a día:</h2>
+<ul>
+<li><a href="https://www.thingiverse.com/">Thingiverse</a>: Gran cantidad de <strong>modelos 3D</strong> para imprimir.</li>
+<li><a href="https://gulagcleaner.com/">Gulag Cleaner</a>: Elimina los <strong>anuncios abusivos</strong> de los PDFs de <strong>Wuolah</strong>.</li>
+<li><a href="https://www.f-secure.com/en/identity-theft-checker">F-Secure Identity Theft Checker</a>: Comprueba si tus <strong>datos</strong> están en algún <strong>data-breach</strong> de forma gratuita.</li>
+<li><a href="https://www.opensubtitles.org/es">OpenSubtitles</a>: ¿Te faltan <strong>subtítulos</strong>?</li>
+<li><a href="https://www.onshape.com/en/">OnShape</a>: Programa que uso para <strong>CAD</strong>.</li>
+<li><a href="https://www.mailticking.com/">MailTicking</a>: <strong>Gmails temporales</strong> para webs de dudosa reputación o cuando no quieres usar tu correo real.</li>
+</ul>
+<hr>
+<h2 id="plugins-esenciales-para-chrome-el-navegador-que-uso">Plugins esenciales para Chrome (el navegador que uso):</h2>
+<ul>
+<li><a href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean">Bypass Paywalls Chrome Clean</a>: Para <strong>eliminar la obligación de pagos abusivos</strong> en algunas webs.</li>
+<li><a href="https://chromewebstore.google.com/detail/video-speed-pro/iinblfpbdoplpbdkepibimlgabgkaika">Video Speed Pro</a>: Modifica la <strong>velocidad</strong> de los reproductores web, útil cuando no hay opción disponible.</li>
+<li><a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a>: El mejor <strong>adblocker</strong> que evita tanto el <strong>tracking</strong> como los anuncios. Lamentablemente, Google lo ha puesto en su lista negra con la última actualización de condiciones, por lo que dejará de funcionar pronto&hellip; 😢 (<em>¿Quién controla internet?</em>)</li>
+</ul>
+]]></content></item><item><title>Reparación Extractor de Humos</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/reparaci%C3%B3nnevera/</link><pubDate>Tue, 15 Oct 2024 09:31:37 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/reparaci%C3%B3nnevera/</guid><description>Diseño en 3D de un par de piezas para la reparación de una mampara de cristal.</description><content type="html"><![CDATA[<p>El otro día se rompió la <strong>sujeción de la mampara</strong> del extractor de humos de mi casa y mi madre me pidió que diseñara una <strong>pieza en 3D</strong> para imprimirla. Tengo una <strong>Creality V3 KE</strong> que conseguí en oferta y la verdad es que ha sido un lujo utilizarla.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/humo1_hu12160565542329599552.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/humo1_hu15982462470769103886.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/humo1_hu12160565542329599552.webp"alt="PiezasAntiguas"  width="600"  height="480"  loading="lazy" />
+        </picture><figcaption>
+            <p>Piezas Antiguas</p>
+          </figcaption></figure>
+<p>Después de pelearme con un <strong>calibre</strong> para medir las curvas de la pieza original, conseguí hacer el diseño. Tuve que <strong>imprimirla un par de veces</strong> hasta que logré los ajustes necesarios para que la pieza fuera lo suficientemente resistente.</p>
+<p><img src="/PersonalWEB2.0/images/Nevera.gif" alt="STYLOBOX"></p>
+<hr>
+<p>Os dejo el <strong>modelo 3D</strong> en GitHub:</p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -13,13 +35,59 @@
       <circle cx="12" cy="12" r="10"></circle>
       <line x1="12" y1="16" x2="12" y2="12"></line>
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
-   </svg></div><b>¡Visita el proyecto!</b>
+   </svg></div><b>¡Descarga el modelo en github!</b>
         </div>
-        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">Ver en GitHub</a></div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects/tree/main/FumeExtractor">Ver en GitHub</a></div>
     </aside>
+]]></content></item><item><title>¿Qué es BrainMade?</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</link><pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/brainmade/</guid><description>%!s(&lt;nil>)</description><content type="html"><![CDATA[<p>El logo que aparece en todos los posts y en la sección de <strong>&ldquo;Sobre mí&rdquo;</strong> indica que esta página ha sido creada por un <strong>humano</strong> y no por una herramienta generativa.</p>
+<p>Si bien la <strong>inteligencia artificial</strong> es una herramienta fantástica y poderosa, creemos firmemente que no debería sustituir la <strong>creación personal</strong>.</p>
+<blockquote>
+<p><em>&ldquo;La creatividad humana tiene un valor único que no debe perderse en un mundo cada vez más automatizado.&rdquo;</em></p>
+</blockquote>
+<p>Si deseas obtener más información sobre esta iniciativa, puedes visitar la web haciendo clic en el ícono <strong>&ldquo;Brain Made&rdquo;</strong>.</p>
+]]></content></item><item><title>Modernización Máquina de dardos</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/maquinadedardos/</link><pubDate>Wed, 02 Oct 2024 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/maquinadedardos/</guid><description>Modernización de una pantalla LED a OLED.</description><content type="html"><![CDATA[<p>En una comida con mi madre conocí al <strong>CEO de una federación de dardos</strong> que tiene un gran stock de <strong>máquinas de dardos antiguas</strong>. Estas máquinas, utilizadas en competiciones y para su venta o alquiler a bares, ya están bastante desfasadas. Durante la comida, me comentó que llevaban tiempo buscando a alguien que les ayudara a <strong>actualizar las pantallas</strong> de las máquinas, que aún usan <strong>displays de 7 segmentos y LEDs</strong> de los años 80-90.</p>
+<p>Me explicó el proyecto y, en un arranque de confianza, le dije que <strong>podía ayudarle</strong>. Como si no tuviese suficientes cosas que hacer entre la universidad y mi TFG… 😅 Decidí ir un día con un amigo a sus almacenes para echar un vistazo a las máquinas y hacer un <strong>testeo inicial</strong>.</p>
+<hr>
+<h3 id="primeras-impresiones">Primeras impresiones</h3>
+<p>La verdad es que las máquinas son bastante <strong>vintage</strong>. Estuve investigando manuales antes de ir, pero no encontré mucho, ya que parecen haber sido desarrolladas especialmente para esta federación. La <strong>placa madre</strong> tenía muchas opciones de testing y funcionalidades sin usar, lo que me hizo pensar que quizás no se completaron del todo o que recortaron costes dejando algunos elementos sin desarrollar. Aunque esto es solo una suposición mía.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/dardosmaquinacompleta_hu4642674688023614193.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/dardosmaquinacompleta_hu5605954629175883829.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/dardosmaquinacompleta_hu4642674688023614193.webp"alt="Máquina de dardos completa"  width="600"  height="800"  loading="lazy" />
+        </picture><figcaption>
+            <p>Máquina de dardos completa</p>
+          </figcaption></figure>
+<hr>
+<h3 id="descripción-técnica">Descripción técnica</h3>
+<p>La <strong>placa base</strong> conecta todas las partes y botones de la máquina, pero lo que nos interesaba a nosotros era la <strong>pantalla</strong>, la cual está conectada mediante un <strong>bus de 40 pines</strong>. De estos pines:</p>
+<ul>
+<li><strong>17</strong> transmiten información.</li>
+<li><strong>3</strong> son: uno desconocido, uno de tierra y otro de corriente.</li>
+<li><strong>13</strong> pines varían.</li>
+<li><strong>4</strong> son constantes, todo 1&rsquo;s.</li>
+</ul>
+<p>El proyecto está a punto de comenzar, aunque entre exámenes y TFG&rsquo;s está complicado sacar tiempo. 😅</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/dardosdev_hu17090416836559432371.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/dardosdev_hu11171854375672711188.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/dardosdev_hu17090416836559432371.webp"alt="Máquina de dardos completa"  width="2048"  height="1536"  loading="lazy" />
+        </picture><figcaption>
+            <p>Máquina de dardos abierta</p>
+          </figcaption></figure>
+<hr>
+<h3 id="plan-de-acción">Plan de acción</h3>
+<p>Para hacer la <strong>ingeniería inversa</strong>, la idea es probar diferentes <strong>combinaciones de botones</strong> y ver cómo cambian los bits del bus de pines. El gran problema es que la máquina tiene muchos <strong>modos de juego</strong> y combinaciones, y los displays muestran tanto números como letras.</p>
+<p>Pensamos que el procesador solo envía los <strong>cambios de estado</strong>, pero no la información completa, lo que sugiere que el procesamiento de los cambios ocurre en la <strong>placa del display</strong>. Esto complica las cosas porque está lleno de memorias y otros componentes electrónicos que superan nuestro conocimiento actual de electrónica.</p>
+<hr>
+<h3 id="próximos-pasos">Próximos pasos</h3>
+<p>Vamos a empezar probando y toqueteando los botones para ver si podemos <strong>descifrar el significado de los bits</strong> del bus. Luego, analizaremos el funcionamiento de la <strong>PCB de la pantalla</strong>. Afortunadamente, tenemos algunos documentos escritos por un ingeniero que trabajó en el proyecto, pero al leerlos me sentí como si estuviera leyendo chino. 🤯</p>
+<p>Seguramente, este proyecto nos quede un poco grande… pero lo único que podemos perder es tiempo. ¡A ver cómo nos va!</p>
 ]]></content></item><item><title>Modelos 3D</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/modelos3d/</guid><description>Creación de modelos 3D para imprimir, incluyendo piezas útiles como pilas genéricas y motores.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="Modelos 3D"></p>
 <p>He creado varios <strong>modelos en 3D</strong> para imprimir, utilizando la aplicación de diseño CAD en línea llamada <strong>On-Shape</strong>. Aproveché un curso gratuito que ofrecían, y gracias a él, aprendí todo lo necesario para diseñar piezas útiles.</p>
 <p>Subo a <strong>GitHub</strong> aquellos modelos que pueden ser de utilidad, como <strong>pilas genéricas</strong> o <strong>motores</strong>. En el futuro, espero poder adquirir un <strong>escáner 3D</strong> para agilizar el proceso, ya que replicar modelos para reparaciones manualmente puede llegar a ser muy lento.</p>
+<hr>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -32,14 +100,126 @@
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">Ver en GitHub</a></div>
     </aside>
-]]></content></item><item><title>SPO32</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid><description>Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
-<p>Este proyecto es el más complejo y extenso que he realizado hasta ahora. La idea surgió de la necesidad de unificar varias tareas que realizaba a diario en diferentes aplicaciones, en un único dispositivo. Me resultaba bastante incómodo tener que cambiar de ventana en el portátil cada vez que quería cambiar de canción en <strong>Spotify</strong> o consultar el clima. Las funcionalidades implementadas incluyen:</p>
+]]></content></item><item><title>Proyecto Fallido, Brazo Robótico</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectofallidobrazo/</link><pubDate>Tue, 13 Aug 2024 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectofallidobrazo/</guid><description>Diseño, impresión y programación de un brazo robótico para el pulido de piedras preciosas.</description><content type="html"><![CDATA[<p>Estaba viendo un día <strong>reels</strong> en YouTube y me salió un video de un tío puliendo piedras preciosas y su facetación. Todo era manual, y se me ocurrió la idea de hacer un brazo robótico que, mediante un algoritmo, pudiera facetear la piedra preciosa según un modelo en 3D.</p>
+<p>No tenía ni idea de diseño de piezas por ordenador, así que hice un curso corto de <strong>CAD</strong> para aprender. ¡Y me puse manos a la obra con el proyecto!</p>
+<hr>
+<h2 id="la-idea-general">La idea general:</h2>
+<ol>
+<li>
+<p><strong>Brazo robótico</strong> que sostiene la piedra, con <strong>tres ejes</strong>:</p>
 <ul>
-<li>Un <strong>reloj digital</strong> que muestra la temperatura actual, junto con las temperaturas máxima y mínima del día.</li>
+<li>Dos ejes para el movimiento vertical.</li>
+<li>Uno con mayor radio de giro.</li>
+<li>Otro con menor radio para ajustes finos.</li>
+<li>Un eje final de rotación circular para poder girar la piedra.</li>
+</ul>
+</li>
+<li>
+<p><strong>Base abrasiva giratoria</strong> que quitaría las capas de la piedra a medida que el brazo ajusta su posición.</p>
+</li>
+<li>
+<p><strong>Algoritmo de control</strong> para el movimiento del brazo.</p>
+</li>
+</ol>
+<p><img src="/PersonalWEB2.0/images/brazo.gif" alt="Brazo"></p>
+<hr>
+<h2 id="mi-workflow">Mi workflow:</h2>
+<ol>
+<li><strong>Compré los servos</strong> en AliExpress.</li>
+<li><strong>Diseñé el brazo robótico</strong> en base a los servos comprados. Aquí me encontré con un problema importante: los servos baratos tenían muchas <strong>holguras</strong> y <strong>muy poco torque</strong>, lo que los hacía <strong>inconsistentes</strong> y <strong>poco precisos</strong>. 😓</li>
+<li>Comencé a <strong>programar en Arduino</strong>, pero los servos no eran lo suficientemente potentes. Decidí que no quería gastar más dinero en nuevos servos (unos 15€ por cada uno), así que dejé el proyecto pausado&hellip; hasta que consiga unos servos decentes o me apetezca gastar el dinero. 💸</li>
+</ol>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/brazo_hu6837238282879047653.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/brazo_hu12778442933610156890.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/brazo_hu6837238282879047653.webp"alt="brazo"  width="600"  height="758"  loading="lazy" />
+        </picture><figcaption>
+            <p>Brazo Impreso en 3D</p>
+          </figcaption></figure>
+<hr>
+<h2 id="el-algoritmo-que-no-llegué-a-desarrollar">El Algoritmo (que no llegué a desarrollar):</h2>
+<p>A continuación, te explico la idea básica del algoritmo que planeaba utilizar para calcular los movimientos del brazo robótico:</p>
+<ol>
+<li>
+<p><strong>Suponer un cubo</strong> con dimensiones (x \times x \times x) y representarlo con una <strong>matriz tridimensional</strong>. El número de filas y columnas dependería de la resolución deseada, representando la piedra antes de los cortes.</p>
+</li>
+<li>
+<p>Tener <strong>modelos de los cortes</strong> en formato de matriz tridimensional con la misma resolución que la del cubo original.</p>
+</li>
+<li>
+<p><strong>Generar una nueva matriz</strong> que contenga los puntos de diferencia entre las dos matrices (el cubo final y el original sin cortes).</p>
+</li>
+<li>
+<p>Esta nueva matriz representaría los <strong>puntos a eliminar</strong> mediante cortes superficiales planos.</p>
+</li>
+<li>
+<p><strong>Búsqueda de superficies</strong>: Mediante vectores directores, el algoritmo buscaría puntos contiguos que compartieran el mismo vector para identificar superficies planas. Después de eso, calcularía la <strong>distancia</strong> a eliminar desde el punto central de la superficie hasta el punto más lejano a eliminar.</p>
+</li>
+<li>
+<p>Finalmente, se tendría un <strong>listado de superficies y distancias</strong> a eliminar, y el siguiente paso sería diseñar el algoritmo que controlaría el movimiento del brazo robótico, tomando en cuenta su posición en el espacio y la posición de la base abrasiva.</p>
+</li>
+</ol>
+<hr>
+<h3 id="reflexión-final">Reflexión final:</h3>
+<p>Me estoy planteando realizar el <strong>algoritmo para calcular las superficies</strong> a eliminar&hellip; ¡sería un buen reto! 💡</p>
+]]></content></item><item><title>Diseño de logo y llaveros impresos en 3D</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/luxerental/</link><pubDate>Wed, 07 Aug 2024 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/luxerental/</guid><description>Diseño de marca y creación de llaveros impresos en 3D.</description><content type="html"><![CDATA[<p>Tengo un colega que está montando una empresa de <strong>alquiler de coches</strong> y le propuse diseñarle unos <strong>llaveros personalizados</strong> como herramienta de marketing. Ya le había ayudado anteriormente diseñando su logo, registrando su marca, haciendo sesiones de fotos a sus coches y mandando imprimir <strong>tapamatrículas</strong> personalizadas. Ahora, surgió la idea de crear unos llaveros para su marca.</p>
+<hr>
+<h2 id="ideas-de-diseño">Ideas de diseño</h2>
+<p>Al final, llegamos a dos ideas para los llaveros:</p>
+<ol>
+<li><strong>Llavero redondo</strong> con las letras del logo de su marca, <strong>LR</strong>.</li>
+<li><strong>Llavero para identificar las matrículas</strong> de los diferentes coches.</li>
+</ol>
+<p>Como el logo tiene dos colores (blanco y negro) y mi impresora solo imprime en un color (¡espero comprarme una multicolor en el futuro!), tuve que diseñar el llavero por partes. Imprimí cada color por separado y luego las pegué con pegamento. Aunque a veces sobresale un poco, no es un gran problema, ya que los llaveros estarán en bolsillos y es normal que se desgasten con el tiempo.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/lr2_hu12269649289352316457.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/lr2_hu11692210470257944772.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/lr2_hu12269649289352316457.webp"alt="Llaveros"  width="600"  height="750"  loading="lazy" />
+        </picture><figcaption>
+            <p>Llaveros en Blanco y Negro</p>
+          </figcaption></figure>
+<hr>
+<h3 id="proceso-de-impresión">Proceso de impresión</h3>
+<ul>
+<li>
+<p><strong>Llavero del logo</strong>:<br>
+Imprimí la base circular en negro con surcos para encajar las letras blancas del logo. Sin embargo, debido a las <strong>tolerancias</strong> en la impresión 3D, el filamento puede expandirse o contraerse ligeramente, por lo que no encajaron perfectamente en la primera versión. Hice varias pruebas y corregí los surcos para que las letras encajasen mejor en la base.</p>
+</li>
+<li>
+<p><strong>Llavero de matrícula</strong>:<br>
+Fue un poco más complicado porque quería que tuviera la misma <strong>tipografía</strong> que las matrículas reales en España. Como uso <strong>OnShape</strong> para el diseño 3D, que solo tiene fuentes básicas, diseñé las matrículas en <strong>Photoshop</strong> y luego las convertí a formato STL usando una herramienta en línea muy útil, <a href="https://imagetostl.com/convert/file/png/to/stl">Image to STL</a>. Después, las coloqué en OnShape, las extruí y las ajusté a mi gusto.</p>
+<p>Con varios coches, llegué a un punto en el que podía <strong>reutilizar los números</strong> de otras matrículas, lo que simplificó mucho el proceso. Inicialmente, intenté usar la misma técnica de los surcos para las letras, pero era difícil lograr que todas encajasen bien. Después de varias iteraciones, decidí imprimir la base en negro y una lámina blanca con huecos para definir los dígitos.</p>
+</li>
+</ul>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/lr1_hu12477921228448565560.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/lr1_hu34376601163171777.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/lr1_hu12477921228448565560.webp"alt="Llaveros"  width="600"  height="400"  loading="lazy" />
+        </picture><figcaption>
+            <p>Llavero y Matrícula</p>
+          </figcaption></figure>
+<hr>
+<h3 id="detalles-finales">Detalles finales</h3>
+<p>Finalmente, compramos las <strong>anillas</strong> en AliExpress, ya que eran mucho más baratas y de la misma calidad que las de una ferretería. En la ferretería costaban <strong>0.35€ por anilla</strong>, mientras que en AliExpress conseguimos <strong>100 anillas por 5.50€</strong>, es decir, solo <strong>0.055€ por anilla</strong>. La primera compra no salió bien porque las dimensiones de las anillas eran demasiado pequeñas, pero rápidamente pedimos otras y AliExpress nos las entregó en solo 5 días. ¡Me encanta la globalización! 😄</p>
+<hr>
+<h3 id="próximos-pasos">Próximos pasos</h3>
+<p>Los llaveros quedaron super bien, pero ahora estoy pensando en añadir una <strong>pegatina NFC</strong> al llavero del logo. De esta forma, los clientes podrían acercar el llavero al móvil y ser redirigidos a una <strong>landing page</strong> donde encontrarían la web de mi colega, sus redes sociales y la página de alquiler de coches.</p>
+]]></content></item><item><title>SPO32</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid><description>Un proyecto que unifica varias aplicaciones en un solo dispositivo, incluyendo un reloj digital y un controlador de Spotify.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
+<p>Este proyecto es el más <strong>complejo y extenso</strong> que he realizado hasta ahora. La idea surgió de la necesidad de <strong>unificar varias tareas</strong> que realizaba a diario en diferentes aplicaciones en un único dispositivo. Me resultaba incómodo cambiar de ventana en el portátil cada vez que quería cambiar de canción en <strong>Spotify</strong> o consultar el clima. Las funcionalidades implementadas incluyen:</p>
+<ul>
+<li>Un <strong>reloj digital</strong> que muestra la <strong>temperatura actual</strong>, junto con las temperaturas máxima y mínima del día.</li>
 <li>Un <strong>controlador de Spotify</strong> que muestra el tiempo restante de la canción en reproducción, información detallada de la canción, y permite cambiar, retroceder o pausar la reproducción.</li>
 </ul>
-<p>El primer gran desafío fue que quería usar dos pantallas LCD simultáneamente. Sin embargo, descubrí que los registros de estas pantallas suelen ser los mismos, por lo que no podían conectarse al mismo <strong>ESP32</strong> al mismo tiempo. La solución fue utilizar un <strong>multiplexor</strong> para gestionarlo. El <strong>ESP32</strong> se conecta a varias <strong>APIs</strong>: una para obtener el clima de mi ubicación, otra para la hora actual, y finalmente la API de <strong>Spotify</strong> para controlar la música.</p>
-<p>El cambio entre las pantallas se realiza mediante un botón, y para controlar la música uso un <strong>Rotary Encoder</strong>. Te invito a echar un vistazo al <strong>video de demostración</strong> o visitar el proyecto en <strong>GitHub</strong>.</p>
+<hr>
+<h3 id="desafíos-y-soluciones">Desafíos y Soluciones</h3>
+<p>El primer gran desafío fue usar <strong>dos pantallas LCD</strong> simultáneamente. Descubrí que los registros de las pantallas eran los mismos, por lo que no podían conectarse al mismo <strong>ESP32</strong> al mismo tiempo. La solución fue usar un <strong>multiplexor</strong> para gestionarlo.</p>
+<p>El <strong>ESP32</strong> se conecta a varias <strong>APIs</strong>: una para obtener el clima de mi ubicación, otra para la hora actual, y finalmente la API de <strong>Spotify</strong> para controlar la música.</p>
+<p>El cambio entre las pantallas se realiza mediante un <strong>botón</strong>, y para controlar la música utilizo un <strong>Rotary Encoder</strong>.</p>
+<hr>
+<p>Te invito a echar un vistazo al <strong>video de demostración</strong> o visitar el proyecto en <strong>GitHub</strong>.</p>
 <p><a href="https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview">Ver Vídeo</a></p>
 
     <aside class="admonition info">
@@ -53,35 +233,17 @@
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/ESPO32">Ver en GitHub</a></div>
     </aside>
-]]></content></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.</description><content type="html"><![CDATA[<p>Tuve el placer de participar en un <strong>Hackathon</strong> de 3 días en mi universidad, donde desarrollamos modelos de <strong>machine learning</strong> para predecir las calificaciones de películas en <strong>IMDB</strong>. Durante este evento, adquirí nuevas habilidades como el <strong>procesamiento de imágenes</strong> y profundicé en el funcionamiento de los <strong>modelos de inteligencia artificial</strong>.</p>
-<p>El hackathon constaba de dos fases:</p>
-<ol>
-<li>
-<p><strong>Predicción de calificaciones de películas</strong>: La primera fase consistía en predecir la posible calificación de una película según sus propiedades (actores, categoría, año, duración, etc.). Nos proporcionaron un <strong>dataset</strong> de aproximadamente 10,000 películas y debíamos entrenar nuestros modelos con él. A pesar de no tener mucha experiencia previa, dediqué la mayor parte del tiempo a entender cómo procesar, filtrar y entrenar el modelo con estos datos.</p>
-</li>
-<li>
-<p><strong>Predicción usando posters de películas</strong>: En la segunda fase, el desafío era similar, pero esta vez utilizando los <strong>posters</strong> de las películas. Aquí es donde entró en juego el procesamiento de imágenes. Mi enfoque fue analizar los <strong>píxeles</strong> de cada imagen y extraer los tres colores más repetidos (tonos verdosos, rojizos y amarillentos). Posteriormente, tratamos de encontrar una relación entre estos colores y el dataset proporcionado. Aunque los resultados no fueron especialmente destacados, fue una excelente oportunidad de aprendizaje.</p>
-</li>
-</ol>
-<p>Los ganadores de nuestra sede, que participaron en la final europea, demostraron un nivel impresionante. Fue una experiencia extenuante, pero al mismo tiempo, enriquecedora y llena de nuevos aprendizajes.</p>
-<p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
-]]></content></item><item><title>AUTO-YT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</guid><description>Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
-<p>Quería investigar la monetización en <strong>YouTube</strong> mediante la creación de un canal automatizado. Utilizando la <strong>API de Google para YouTube</strong> y algunas técnicas de <strong>scraping</strong>, logré generar contenido en pocos minutos, sin necesidad de edición ni búsqueda manual de contenido.</p>
-<h3 id="funcionamiento">Funcionamiento</h3>
-<p>Para su correcto funcionamiento, se deben incluir las credenciales de una cuenta de <strong>Instagram</strong> para obtener vídeos de las cuentas seguidas. También es necesario tener acceso a la <strong>cuenta de Google</strong> del canal en el que se subirán los vídeos, además de una <strong>cuenta de desarrollador</strong> para autenticarse. El programa guarda en una base de datos los identificadores de los vídeos subidos, y cuando se buscan nuevos vídeos para subir, se verifica si ya han sido subidos previamente.</p>
-<h3 id="opciones-disponibles">Opciones disponibles</h3>
-<ol>
-<li>
-<p><strong>Subir un YouTube Short</strong>:<br>
-El programa busca vídeos en formato vertical en las cuentas de Instagram seguidas. Se obtiene el nombre del vídeo y se verifica en la base de datos si ya ha sido subido. Si el vídeo dura menos de 1 minuto y cumple con los requisitos, se muestra un enlace en la consola para que el usuario confirme si desea subirlo. Tras la confirmación, el vídeo se sube automáticamente a <strong>YouTube Shorts</strong>. Es importante ajustar el nombre y la descripción del vídeo antes de la subida.</p>
-</li>
-<li>
-<p><strong>Crear recopilaciones de vídeos</strong>:<br>
-Esta opción permite seleccionar varios vídeos para crear una compilación. Puedes elegir cuántos vídeos scrapear de las cuentas seguidas en Instagram, y si deseas añadir una intro/outro al vídeo, lo indicas en los ajustes del programa. El proceso es similar al de los Shorts, pero un poco más lento, ya que la edición y el formateo de los vídeos se realiza con <strong>MoviePy</strong>, una librería que, aunque funcional, no es la más rápida.</p>
-</li>
-</ol>
-<p>Visítalo en <strong>GitHub</strong> y echa un vistazo al código!</p>
-<p><img src="/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT"></p>
+]]></content></item><item><title>STYLO-BOX</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</link><pubDate>Fri, 03 May 2024 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/stylo-box/</guid><description>Un proyecto universitario que incluye un jukebox y un stylophone personalizado, utilizando un STM32.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
+<p>Este proyecto fue desarrollado como parte de la asignatura <strong>Sistemas Digitales 2</strong> en mi universidad. La tarea principal consistía en crear un <strong>Jukebox</strong> empleando un microcontrolador <strong>STM32</strong> y programándolo en <strong>lenguaje C</strong>.</p>
+<hr>
+<h3 id="desafío-adicional-stylophone-personalizado">Desafío adicional: <strong>Stylophone personalizado</strong></h3>
+<p>Para la parte opcional del proyecto, decidí añadir un desafío extra: construir un <strong>stylophone</strong> personalizado. Utilicé sensores para las piezas, permitiendo funcionalidades como cambiar entre diferentes <strong>octavas</strong>. La implementación fue bastante compleja, ya que el programa principal se estructuraba en torno a <strong>máquinas de estado</strong> y gestión de registros, y todo esto sin utilizar la <strong>biblioteca HAL</strong>.</p>
+<p>El curso tenía como objetivo aprender a bajo nivel, por lo que programar con HAL hubiera facilitado demasiado el desarrollo, similar a cómo se programa en <strong>Arduino</strong>.</p>
+<hr>
+<h3 id="resultado">Resultado</h3>
+<p>A pesar de las dificultades, el proyecto fue un éxito, y me otorgaron la <strong>insignia al Mejor Diseño de Hardware</strong>.</p>
+<p><img src="/PersonalWEB2.0/images/imagen%20(1).jpg" alt="Imagen del proyecto"></p>
+<p>Puedes explorar el código del proyecto en mi repositorio de <strong>GitHub</strong>.</p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -92,20 +254,100 @@ Esta opción permite seleccionar varios vídeos para crear una compilación. Pue
       <line x1="12" y1="8" x2="12.01" y2="8"></line>
    </svg></div><b>¡Visita el proyecto!</b>
         </div>
-        <div class="admonition-content">[Visitar en Github - Bajo mantenimiento]</div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">Ver en GitHub</a></div>
     </aside>
-]]></content></item><item><title>Proyectos Para Empresas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.</description><content type="html"><![CDATA[<p>Trabajando para <strong>SAWY</strong>, he desarrollado dos programas principales que han mejorado significativamente la eficiencia del flujo de trabajo anterior. Estos programas son:</p>
+]]></content></item><item><title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hackathon/</guid><description>Participación en un hackathon universitario, desarrollando modelos de machine learning para predecir notas de IMDB.</description><content type="html"><![CDATA[<p>Tuve el placer de participar en un <strong>Hackathon</strong> de 3 días en mi universidad, donde desarrollamos modelos de <strong>machine learning</strong> para predecir las calificaciones de películas en <strong>IMDB</strong>. Durante este evento, adquirí nuevas habilidades como el <strong>procesamiento de imágenes</strong> y profundicé en el funcionamiento de los <strong>modelos de inteligencia artificial</strong>.</p>
+<hr>
+<h2 id="el-hackathon-constaba-de-dos-fases">El hackathon constaba de dos fases:</h2>
+<ol>
+<li>
+<h3 id="predicción-de-calificaciones-de-películas"><strong>Predicción de calificaciones de películas</strong></h3>
+<p>La primera fase consistía en predecir la posible calificación de una película según sus propiedades (actores, categoría, año, duración, etc.). Nos proporcionaron un <strong>dataset</strong> de aproximadamente 10,000 películas y debíamos entrenar nuestros modelos con él.<br>
+A pesar de no tener mucha experiencia previa, dediqué la mayor parte del tiempo a entender cómo procesar, filtrar y entrenar el modelo con estos datos.</p>
+</li>
+<li>
+<h3 id="predicción-usando-posters-de-películas"><strong>Predicción usando posters de películas</strong></h3>
+<p>En la segunda fase, el desafío era similar, pero esta vez utilizando los <strong>posters</strong> de las películas. Aquí es donde entró en juego el <strong>procesamiento de imágenes</strong>.<br>
+Mi enfoque fue analizar los <strong>píxeles</strong> de cada imagen y extraer los tres colores más repetidos (tonos verdosos, rojizos y amarillentos). Posteriormente, tratamos de encontrar una relación entre estos colores y el dataset proporcionado.<br>
+Aunque los resultados no fueron especialmente destacados, fue una excelente oportunidad de aprendizaje.</p>
+</li>
+</ol>
+<hr>
+<p>Los ganadores de nuestra sede, que participaron en la <strong>final europea</strong>, demostraron un nivel impresionante. Fue una experiencia extenuante, pero al mismo tiempo, <strong>enriquecedora y llena de nuevos aprendizajes</strong>.</p>
+<p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
+]]></content></item><item><title>AUTO-YT</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/auto-yt/</guid><description>Un sistema automatizado para generar contenido en YouTube usando la API de Google y scraping.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
+<p>Quería investigar la <strong>monetización en YouTube</strong> mediante la creación de un canal automatizado. Usando la <strong>API de Google para YouTube</strong> y algunas técnicas de <strong>scraping</strong>, logré generar contenido en pocos minutos, sin necesidad de edición ni búsqueda manual de contenido.</p>
+<hr>
+<h2 id="cómo-funciona">¿Cómo funciona?</h2>
+<p>Para que el sistema funcione correctamente, se requieren:</p>
+<ul>
+<li><strong>Credenciales de una cuenta de Instagram</strong> para obtener vídeos de las cuentas seguidas.</li>
+<li>Acceso a la <strong>cuenta de Google</strong> del canal donde se subirán los vídeos.</li>
+<li>Una <strong>cuenta de desarrollador</strong> para autenticarse.</li>
+</ul>
+<p>El programa almacena en una base de datos los identificadores de los vídeos subidos. Cuando busca nuevos vídeos, verifica si ya fueron subidos previamente para evitar duplicaciones.</p>
+<hr>
+<h2 id="opciones-disponibles">Opciones disponibles:</h2>
+<ol>
+<li>
+<h3 id="subir-un-youtube-short"><strong>Subir un YouTube Short</strong>:</h3>
+<p>El programa busca vídeos en formato vertical en las cuentas de Instagram seguidas. Los pasos son los siguientes:</p>
+<ul>
+<li>Verifica si el vídeo ya ha sido subido a la base de datos.</li>
+<li>Si el vídeo dura menos de 1 minuto y cumple con los requisitos, el sistema muestra un enlace en la consola para que el usuario lo confirme.</li>
+<li>Tras la confirmación, el vídeo se sube automáticamente a <strong>YouTube Shorts</strong>.</li>
+</ul>
+<p>💡 <em>Es importante ajustar el nombre y la descripción del vídeo antes de subirlo.</em></p>
+</li>
+<li>
+<h3 id="crear-recopilaciones-de-vídeos"><strong>Crear recopilaciones de vídeos</strong>:</h3>
+<ul>
+<li>Permite seleccionar varios vídeos para crear una <strong>compilación</strong>.</li>
+<li>Se puede elegir cuántos vídeos scrapear de Instagram y si se desea añadir una <strong>intro/outro</strong>.</li>
+<li>El proceso es un poco más lento que el de los Shorts, ya que se utiliza <strong>MoviePy</strong> para editar y formatear los vídeos.</li>
+</ul>
+</li>
+</ol>
+<p><img src="/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT"></p>
+<hr>
+<h2 id="te-interesa-ver-el-código">¿Te interesa ver el código?</h2>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>¡Visita el proyecto!</b>
+        </div>
+        <div class="admonition-content">[Visitar en GitHub - Bajo mantenimiento]</div>
+    </aside>
+]]></content></item><item><title>Software Para SAWY</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyectos_para_empresas/</guid><description>Soluciones automatizadas para generar ejercicios y preguntas a partir de contenido de video.</description><content type="html"><![CDATA[<p>Trabajando para <strong>SAWY</strong>, he desarrollado dos programas principales que han mejorado significativamente la eficiencia del flujo de trabajo anterior. Estos programas son:</p>
+<hr>
 <p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
 <h3 id="text2qu"><strong>TEXT2QU</strong></h3>
-<p><strong>TEXT2QU</strong> es un software privado diseñado para automatizar la generación de ejercicios de programación estilo puzzle para cursos en línea. Con esta herramienta, es posible generar cientos de preguntas en solo segundos, optimizando la creación de contenido educativo.</p>
+<p><strong>TEXT2QU</strong> es un software privado diseñado para <strong>automatizar la generación de ejercicios de programación estilo puzzle</strong> para cursos en línea. Con esta herramienta, es posible generar <strong>cientos de preguntas en segundos</strong>, optimizando la creación de contenido educativo.</p>
+<hr>
 <p><img src="/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q"></p>
 <h3 id="text2q"><strong>TEXT2Q</strong></h3>
-<p><strong>TEXT2Q</strong> es una herramienta enfocada en la creación automática de preguntas tipo <em>multiple-choice</em>, verdadero o falso, y <em>fill-the-gaps</em> a partir de vídeos educativos. En cuestión de segundos, puede generar cientos de preguntas basadas en el contenido de los vídeos grabados.</p>
-<p>Ambos programas fueron desarrollados en <strong>Python</strong> utilizando las bibliotecas <strong>Pandas</strong> y <strong>OpenAI</strong>. Aunque los documentos generados requieren cierto postprocesado (ya que en ocasiones las preguntas generadas pueden no ser totalmente precisas), el ahorro de tiempo en comparación con la creación manual es enorme.</p>
+<p><strong>TEXT2Q</strong> es una herramienta enfocada en la <strong>creación automática de preguntas</strong> tipo <em>multiple-choice</em>, verdadero o falso, y <em>fill-the-gaps</em> a partir de <strong>vídeos educativos</strong>. En cuestión de segundos, puede generar cientos de preguntas basadas en el contenido de los vídeos grabados.</p>
+<hr>
+<p>Ambos programas fueron desarrollados en <strong>Python</strong> utilizando las bibliotecas <strong>Pandas</strong> y <strong>OpenAI</strong>. Aunque los documentos generados requieren cierto <strong>postprocesado</strong> (ya que a veces las preguntas pueden no ser totalmente precisas), el <strong>ahorro de tiempo</strong> en comparación con la creación manual es enorme.</p>
 ]]></content></item><item><title>EZCALENDAR</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</link><pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ezcalendar/</guid><description>Una herramienta en Python para generar calendarios de exámenes en PDF automáticamente.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
-<p>Desarrollé este programa en <strong>Python</strong> porque siempre hacía los calendarios de exámenes a mano. Con <strong>EZCALENDAR</strong>, ahora puedo generar un calendario en <strong>PDF</strong> listo para imprimir, con los días restantes hasta las fechas de los exámenes que necesito. Su uso es muy sencillo: simplemente introduces las fechas de los exámenes y sus nombres, presionas <strong>Enter</strong>, ¡y obtienes un PDF en formato A4! La altura del documento se ajusta en función de la cantidad de eventos y los días restantes hasta esos eventos.</p>
-<p><strong>Ejemplo de un calendario generado</strong><br>
-<img src="/PersonalWEB2.0/images/calendar.png" alt="Calendario"></p>
+<h3 id="cansado-de-hacer-calendarios-de-exámenes-o-eventos-a-mano">¿Cansado de hacer calendarios de exámenes o eventos a mano?</h3>
+<p>Desarrollé <strong>EZCALENDAR</strong> en <strong>Python</strong> precisamente para evitar esa tarea repetitiva. Con esta herramienta, puedes generar un calendario de exámenes en formato <strong>PDF</strong> listo para imprimir, y lo mejor de todo es que te muestra los <strong>días restantes</strong> hasta cada examen.</p>
+<hr>
+<h2 id="cómo-funciona">¿Cómo funciona?</h2>
+<ol>
+<li>Introduces las <strong>fechas de los exámenes</strong> y sus nombres.</li>
+<li>Presionas <strong>Enter</strong>.</li>
+<li>Automáticamente obtienes un <strong>PDF en formato A4</strong> con los exámenes organizados y la altura ajustada en función de la cantidad de eventos.</li>
+</ol>
+<h3 id="ejemplo-de-un-calendario-generado">Ejemplo de un calendario generado</h3>
+<p><img src="/PersonalWEB2.0/images/calendar.png" alt="Calendario"></p>
+<hr>
+<p>Si te interesa probarlo o necesitas organizarte para tus próximos exámenes, ¡visita el proyecto en GitHub!</p>
 
     <aside class="admonition info">
         <div class="admonition-title">
@@ -118,8 +360,21 @@ Esta opción permite seleccionar varios vídeos para crear una compilación. Pue
         </div>
         <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/EZCALENDAR">Ver en GitHub</a></div>
     </aside>
-]]></content></item><item><title>Proyectos con Arduino</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</link><pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</guid><description>Diversos proyectos con Arduino que incluyen esquemas circuitales y algunas ideas interesantes.</description><content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
-<p>He realizado varios <strong>proyectos con Arduino</strong>. Algunos de ellos incluyen <strong>esquemas circuitales</strong> que pueden servir de inspiración para otros desarrolladores o aficionados a la electrónica. Aunque la carpeta de proyectos no está muy actualizada últimamente, ya que no he trabajado mucho con Arduino recientemente, sigue siendo una buena fuente de ideas interesantes.</p>
+]]></content></item><item><title>Reparación Mesa de Mezclas</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/reparacionmesapinchar/</link><pubDate>Tue, 05 Sep 2023 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/reparacionmesapinchar/</guid><description>Story Time + Reparación de mesa de Mezclas</description><content type="html"><![CDATA[<p>Siempre me ha gustado <strong>pinchar música</strong>, y uno de mis grandes sueños es ser <strong>DJ</strong>, pero me he encontrado con el problema de las <strong>mesas de mezcla</strong>. Como en todas las cosas de nicho, cuando te pones a ver cuánto valen, te das cuenta de que es un <strong>pastizal</strong>. A no ser que tengas mucho dinero (o tus padres lo tengan), es complicado.</p>
+<p>Mi primera mesa de mezcla era una <strong>Traktor</strong>, pero en una de mis fiestas multitudinarias en casa de mi padre, alguien le tiró una copa encima sin que me diera cuenta. A la mañana siguiente, al recoger y darle la vuelta para limpiarla, parecía una <strong>fuente</strong> de ron-cola maloliente que había recorrido todos los knobs y sliders de la mesa&hellip; Y ahí quedó. La desmonté y la guardé para piezas, por si en el futuro necesitaba uno de sus numerosos <strong>LEDs</strong> o <strong>potenciómetros</strong>.</p>
+<hr>
+<p>Mi aventura de pinchar se quedó un poco estancada hasta que, años después, un colega me regaló una <strong>Pioneer</strong> algo maltrecha que tenía varios botones fallando. Con mi mentalidad de manitas, me puse a arreglarla, pero obviamente no tenía mucha idea de cómo desoldar bien. Entre que las patas de los componentes eran recortadas, la suciedad interna, y mi falta de cuidado, terminé cargándome varios <strong>anillos de soldadura</strong> de los componentes.</p>
+<p>Tuve que usar una <strong>aguja</strong> para rascar las <strong>pistas de cobre</strong> y poder soldar los nuevos componentes. Por si no lo habías adivinado, las piezas que usé provenían de la vieja y sucia <strong>Traktor</strong> que había estado años en un armario acumulando polvo. Desoldé algunos <strong>LEDs</strong> y botones de la Traktor y los soldé a la Pioneer. Aunque quedó un poco chapuzas, ¡funciona!</p>
+<p>De esta experiencia, aprendí que la <strong>temperatura del soldador</strong> es clave si no quieres que tu <strong>PCB</strong> se derrita. Definitivamente necesito comprarme un soldador mejor que el barato que pillé en Amazon por 20 pavos (que seguro que lo compraron en China por 3€). A ver si también me hago con una <strong>soldering station</strong>&hellip; y ya que estamos, con unos <strong>CDJs</strong> y un <strong>mixer</strong> de paso. 😅</p>
+<p>(Fotos del proyecto próximamente)</p>
+<p><img src="/PersonalWEB2.0/images/davidBowieDj.webp" alt="C0mpUt3r"></p>
+]]></content></item><item><title>Proyecto de Arte + Robótica</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyetoartemama/</link><pubDate>Mon, 20 Mar 2023 10:30:39 +0200</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/proyetoartemama/</guid><description>¿Quieres ver algo bonito?</description><content type="html"><![CDATA[<p>Mi madre es <strong>escultora</strong> y tenía la idea de simular con <strong>imanes</strong> el movimiento de una hoja y su oscilación. Decidí ayudarle diseñando un circuito en el cual, mediante un <strong>motor paso a paso</strong>, se controla un imán y su movimiento de forma <strong>pseudoaleatoria</strong>.</p>
+<p>Al principio, pensé que podría haber utilizado un <strong>electroimán</strong>, pero el resultado sería diferente. Al activarlo y desactivarlo, se generan oscilaciones constantes que no me convencían. El electroimán creaba una <strong>frecuencia de oscilación constante</strong>, pero me gustaba más el resultado de los cambios en la distancia y rotación del imán para simular el movimiento de la hoja.</p>
+<p>Pueden echarle un vistazo a un <strong>video de demostración</strong> para ver el funcionamiento. (Próximamente)</p>
+<hr>
+<p>Para el <strong>motor paso a paso</strong>, diseñé un <strong>soporte para los imanes</strong> con diferentes posiciones. Aunque en principio se usan dos posiciones, en los extremos, el diseño permite que los imanes se puedan cambiar y ajustar según sea necesario.</p>
+]]></content></item><item><title>Proyectos con Arduino</title><link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</link><pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate><guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/arduino/</guid><description>Diversos proyectos con Arduino que incluyen esquemas circuitales y algunas ideas interesantes.</description><content type="html"><![CDATA[<p>He realizado varios <strong>proyectos con Arduino</strong>, algunos de los cuales incluyen <strong>esquemas circuitales</strong> que pueden servir de inspiración para otros desarrolladores o aficionados a la electrónica. Aunque la carpeta de proyectos no está muy actualizada últimamente, sigue siendo una <strong>buena fuente de ideas</strong> interesantes.</p>
+<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Circuito Arduino"></p>
 
     <aside class="admonition info">
         <div class="admonition-title">
