@@ -95,6 +95,7 @@
 			}
 		});
 	</script>
+{{- partial "language-switcher.html" . -}}
 {{- if .Site.Params.googleTagManager -}}{{- partial "googleTagManager_body.html" . -}}{{- end -}}
 {{- block "header" . -}}{{ end -}}
 {{- block "main" . -}}{{ end -}}

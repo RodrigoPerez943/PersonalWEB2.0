@@ -1,0 +1,19 @@
+{{- if .Site.IsMultiLingual -}}
+<div id="lang-switcher" aria-label="Language selector">
+	{{- $current := . -}}
+	{{- range .Site.Languages -}}
+		{{- $lang := .Lang -}}
+		{{- $translated := where $current.AllTranslations "Language.Lang" "eq" $lang -}}
+		{{- $translated = where $translated "Kind" "eq" $current.Kind -}}
+		{{- if $current.Section -}}
+			{{- $translated = where $translated "Section" "eq" $current.Section -}}
+		{{- end -}}
+		{{- $siteMatch := first 1 (where $current.Sites "Language.Lang" "eq" $lang) -}}
+		{{- if gt (len $translated) 0 -}}
+			<a class="{{ if eq $current.Site.Language.Lang $lang }}active{{ end }}" href="{{ (index $translated 0).Permalink }}">{{ upper $lang }}</a>
+		{{- else if gt (len $siteMatch) 0 -}}
+			<a class="{{ if eq $current.Site.Language.Lang $lang }}active{{ end }}" href="{{ (index $siteMatch 0).Home.Permalink }}">{{ upper $lang }}</a>
+		{{- end -}}
+	{{- end -}}
+</div>
+{{- end -}}

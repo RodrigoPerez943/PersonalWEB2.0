@@ -1,16 +1,3 @@
-	{{- if .Site.IsMultiLingual -}}
-	<div id="lang-switcher" aria-label="Language selector">
-		{{- range .Site.Languages -}}
-			{{- $lang := .Lang -}}
-			{{- $target := where $.AllTranslations "Lang" "eq" $lang -}}
-			{{- if gt (len $target) 0 -}}
-				<a class="{{ if eq $.Site.Language.Lang $lang }}active{{ end }}" href="{{ (index $target 0).Permalink }}">{{ upper $lang }}</a>
-			{{- else -}}
-				<a class="{{ if eq $.Site.Language.Lang $lang }}active{{ end }}" href="{{ $lang | relLangURL }}">{{ upper $lang }}</a>
-			{{- end -}}
-		{{- end -}}
-	</div>
-	{{- end -}}
 	<header id="site-header" class="animated slideInUp">
 		<div class="hdr-wrapper section-inner">
 			<div class="hdr-left">
