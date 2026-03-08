@@ -26,5 +26,16 @@
 			{{- range .Site.Menus.main }}
 			<li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
 			{{- end }}
+			{{- if .Site.IsMultiLingual -}}
+				{{- range .Site.Languages -}}
+					{{- $lang := .Lang -}}
+					{{- $target := where $.AllTranslations "Lang" "eq" $lang -}}
+					{{- if gt (len $target) 0 -}}
+						<li><a href="{{ (index $target 0).Permalink }}">{{ upper $lang }}</a></li>
+					{{- else -}}
+						<li><a href="{{ $lang | relLangURL }}">{{ upper $lang }}</a></li>
+					{{- end -}}
+				{{- end -}}
+			{{- end -}}
 		</ul>
 	</div>

@@ -10,3 +10,18 @@
 		<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
 	{{- end -}}
 {{- end -}}
+{{- if .Site.IsMultiLingual -}}
+	{{- range .Site.Languages -}}
+		{{- $lang := .Lang -}}
+		{{- if eq $.Site.Language.Lang $lang -}}
+			<a href="{{ $.Permalink }}">{{ upper $lang }}</a>
+		{{- else -}}
+			{{- $target := where $.AllTranslations "Lang" "eq" $lang -}}
+			{{- if gt (len $target) 0 -}}
+				<a href="{{ (index $target 0).Permalink }}">{{ upper $lang }}</a>
+			{{- else -}}
+				<a href="{{ $lang | relLangURL }}">{{ upper $lang }}</a>
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}

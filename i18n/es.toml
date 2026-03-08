@@ -1,0 +1,32 @@
+[notFound]
+other = "Pagina no encontrada..."
+
+[home]
+other = "Inicio"
+
+[archives]
+other = "Proyectos"
+
+[humanMade]
+other = "No odio la IA, pero me encantan los humanos"
+
+[featuredImage]
+other = "Imagen destacada"
+
+[tableOfContents]
+other = "Tabla de contenidos"
+
+[menu]
+other = "Menu"
+
+[wordCount]
+other = "palabras"
+
+[seeAlso]
+other = "Ver tambien"
+
+[newer]
+other = "Mas reciente"
+
+[older]
+other = "Mas antiguo"

@@ -1,49 +1,79 @@
-baseURL = 'https://rodrigoperez943.github.io/PersonalWEB2.0/'
-languageCode = 'es-ES'
-title = 'Rodrigo Pérez del Pulgar Almodóvar'
-theme = 'hermit-v2'
+baseURL = "https://rodrigoperez943.github.io/PersonalWEB2.0/"
+theme = "hermit-v2"
 
 defaultContentLanguage = "es"
-
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-rssLimit = 10
+defaultContentLanguageInSubdir = false
 enableEmoji = true
+pygmentsCodefences = true
+pygmentsUseClasses = true
+rssLimit = 10
 
+[languages]
+  [languages.es]
+    languageCode = "es-ES"
+    languageName = "Espanol"
+    title = "Rodrigo Perez del Pulgar Almodovar"
+    weight = 1
+    [languages.es.params]
+      homeSubtitle = "Bienvenido a mi web!"
+      footerCopyright = "Gracias por tu visita!"
+      readTimeSeparator = "palabras, tiempo de lectura:"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Proyectos"
+        url = "posts/"
+        weight = 10
+      [[languages.es.menu.main]]
+        name = "Sobre Mi"
+        url = "about/"
+        weight = 20
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    title = "Rodrigo Perez del Pulgar Almodovar"
+    weight = 2
+    [languages.en.params]
+      homeSubtitle = "Welcome to my website!"
+      footerCopyright = "Thanks for visiting!"
+      readTimeSeparator = "words, reading time:"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Projects"
+        url = "posts/"
+        weight = 10
+      [[languages.en.menu.main]]
+        name = "About"
+        url = "about/"
+        weight = 20
 
 [frontmatter]
-date = ["date", "publishDate", "lastmod"]
-lastmod = ["lastmod", ":git", "date", "publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
 
 [params.author]
-  name = "Rodrigo Pérez del Pulgar Almodóvar"
+  name = "Rodrigo Perez del Pulgar Almodovar"
   about = "/about"
 
-
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "2 de January"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"  # Mantén este formato para fecha y hora.
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
   descriptionInPosts = true
-  # description = "Blog Personal Rodrigo Pérez del Pulgar Almodóvar"
   images = ["images/prev.png"]
   themeColor = "#494f5c"
-  footerCopyright = "Gracias por tu visita!"
   relatedPosts = true
   code_copy_button = true
-  scrollToTop = true 
+  scrollToTop = true
   readTime = true
-  human = ["single","posts"]
-  readTimeSeparator = "palabras, tiempo de lectura:"
+  human = ["single", "posts"]
   shareSocial = true
   homeSubtitlePrinter = true
-  homeSubtitle = "Bienvenido a mi web! "
-  pinned = " "  
+  pinned = " "
 
-  
 [[params.socialLinks]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/rodrigoperezalmo"
@@ -53,16 +83,5 @@ expiryDate = ["expiryDate"]
   url = "https://github.com/RodrigoPerez943"
 
 [[params.socialLinks]]
-name = "email"
-url = "mailto:rodrigoperezalmo@gmail.com"
-
-[menu]
-  [[menu.main]]
-    name = "Proyectos"
-    url = "posts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "Sobre Mí"
-    url = "about/"
-    weight = 20
+  name = "email"
+  url = "mailto:rodrigoperezalmo@gmail.com"

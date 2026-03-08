@@ -1,0 +1,32 @@
+[notFound]
+other = "Page not found..."
+
+[home]
+other = "Home"
+
+[archives]
+other = "Projects"
+
+[humanMade]
+other = "I do not hate AIs; I just love humans"
+
+[featuredImage]
+other = "Featured image"
+
+[tableOfContents]
+other = "Table of contents"
+
+[menu]
+other = "Menu"
+
+[wordCount]
+other = "words"
+
+[seeAlso]
+other = "See also"
+
+[newer]
+other = "Newer"
+
+[older]
+other = "Older"
