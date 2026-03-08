@@ -60,16 +60,28 @@
 </head>
 <body id="page">
 	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			var randomImageUrl = 'https://spaceholder.cc/i/1920x1080?rand=' + Math.random();
+		document.addEventListener("DOMContentLoaded", async function () {
+			try {
+				const response = await fetch(
+					"https://api.unsplash.com/photos/random?query=space&orientation=landscape&client_id=YunabUb45a5nweqX21iAZxeC4EsawKtxpvlsiYXU"
+				);
 
-			var img = new Image();
-			img.src = randomImageUrl;
+				const data = await response.json();
+				const backgroundUrl = data.urls.regular;
 
-			img.onload = function() {
-				document.documentElement.style.setProperty('--background-image', `url('${randomImageUrl}')`);
-				document.body.classList.add('image-loaded');
-			};
+				const img = new Image();
+				img.src = backgroundUrl;
+
+				img.onload = function () {
+					document.documentElement.style.setProperty(
+						'--background-image',
+						`url('${backgroundUrl}')`
+					);
+					document.body.classList.add('image-loaded');
+				};
+			} catch (error) {
+				console.error("No se pudo cargar la imagen de fondo:", error);
+			}
 		});
 	</script>
 {{- if .Site.Params.googleTagManager -}}{{- partial "googleTagManager_body.html" . -}}{{- end -}}
