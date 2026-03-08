@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rodrigo Pérez del Pulgar Almodóvar</title>
-    <link>http://localhost:1313/en/</link>
-    <description>Recent content on Rodrigo Pérez del Pulgar Almodóvar</description>
+    <title>Rodrigo Perez del Pulgar Almodovar</title>
+    <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/</link>
+    <description>Recent content on Rodrigo Perez del Pulgar Almodovar</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Mar 2026 12:23:39 +0200</lastBuildDate>
+    <atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDJ100 Mixing Console</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ddj1000/</link>
+      <pubDate>Sun, 08 Mar 2026 12:23:39 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ddj1000/</guid>
+      <description>&lt;p&gt;After quite some time without working on any personal projects, I came across a heavily damaged Pioneer DDJ-1000 controller for a very good price, so I decided to buy it.&lt;/p&gt;&#xA;&lt;p&gt;The jog wheels were broken, the four volume faders were snapped, and several buttons were damaged. I ordered the replacement parts and, after soldering and replacing quite a few components, it works perfectly again.&lt;/p&gt;&#xA;&lt;p&gt;I also had to design the caps for almost all the knobs and 3D-print them. Here are some photos I took during the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Useful Pages</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/</link>
+      <pubDate>Sat, 19 Oct 2024 21:08:16 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/</guid>
+      <description>&lt;h2 id=&#34;websites-i-use-regularly&#34;&gt;Websites I use regularly&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34;&gt;Thingiverse&lt;/a&gt;: Huge collection of printable &lt;strong&gt;3D models&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gulagcleaner.com/&#34;&gt;Gulag Cleaner&lt;/a&gt;: Removes abusive &lt;strong&gt;ads&lt;/strong&gt; from &lt;strong&gt;Wuolah&lt;/strong&gt; PDFs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.f-secure.com/en/identity-theft-checker&#34;&gt;F-Secure Identity Theft Checker&lt;/a&gt;: Checks if your data appears in a &lt;strong&gt;data breach&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.opensubtitles.org/es&#34;&gt;OpenSubtitles&lt;/a&gt;: Useful if you need &lt;strong&gt;subtitles&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.onshape.com/en/&#34;&gt;OnShape&lt;/a&gt;: The CAD software I use.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mailticking.com/&#34;&gt;MailTicking&lt;/a&gt;: &lt;strong&gt;Temporary Gmail accounts&lt;/strong&gt; for sketchy websites.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;essential-chrome-extensions-my-main-browser&#34;&gt;Essential Chrome extensions (my main browser)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/bpc-clone/bypass-paywalls-chrome-clean&#34;&gt;Bypass Paywalls Chrome Clean&lt;/a&gt;: Bypasses abusive paywalls on some sites.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/video-speed-pro/iinblfpbdoplpbdkepibimlgabgkaika&#34;&gt;Video Speed Pro&lt;/a&gt;: Controls playback speed on web players.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm&#34;&gt;uBlock Origin&lt;/a&gt;: Excellent ad blocker and anti-tracking extension.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Range Hood Repair</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparaci%C3%B3nnevera/</link>
+      <pubDate>Tue, 15 Oct 2024 09:31:37 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparaci%C3%B3nnevera/</guid>
+      <description>&lt;p&gt;A few days ago, the &lt;strong&gt;glass panel support&lt;/strong&gt; of my home range hood broke, and my mother asked me to design a &lt;strong&gt;3D-printed replacement part&lt;/strong&gt;. I use a &lt;strong&gt;Creality V3 KE&lt;/strong&gt;, and it has been great.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;figure class=&#34;webp&#34; &gt;&lt;picture&gt;&#xD;&#xA;          &lt;source srcset=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/humo1_hu_38d269dd4b47d718.webp&#34; type=&#34;image/webp&#34;&gt;&#xD;&#xA;          &lt;source srcset=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/humo1_hu_f42345a78d109b34.jpg&#34; type=&#34;image/jpeg&#34;&gt;&#xD;&#xA;          &lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/humo1_hu_38d269dd4b47d718.webp&#34;alt=&#34;Old parts&#34;  width=&#34;600&#34;  height=&#34;480&#34;  loading=&#34;lazy&#34; /&gt;&#xD;&#xA;        &lt;/picture&gt;&lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Old Parts&lt;/p&gt;&#xD;&#xA;          &lt;/figcaption&gt;&lt;/figure&gt;&#xA;&lt;p&gt;After measuring the original part with a caliper and iterating through a couple of prints, I got a strong and accurate fit.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/Nevera.gif&#34; alt=&#34;Repair&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;You can find the &lt;strong&gt;3D model&lt;/strong&gt; on GitHub:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is BrainMade?</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/brainmade/</link>
+      <pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/brainmade/</guid>
+      <description>&lt;p&gt;The logo shown in all posts and in the &lt;strong&gt;About me&lt;/strong&gt; section indicates that this website was created by a &lt;strong&gt;human&lt;/strong&gt;, not by a generative tool.&lt;/p&gt;&#xA;&lt;p&gt;Although &lt;strong&gt;artificial intelligence&lt;/strong&gt; is a powerful and useful tool, we strongly believe it should not replace &lt;strong&gt;personal creation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Human creativity has a unique value that should not be lost in an increasingly automated world.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;If you want to learn more about this initiative, you can click the &lt;strong&gt;Brain Made&lt;/strong&gt; icon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/about/</link>
+      <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/about/</guid>
+      <description>&lt;p&gt;Hello! I am &lt;strong&gt;Rodrigo Perez del Pulgar Almodovar&lt;/strong&gt;, a Master’s student in Telecommunications Engineering. I am passionate about building and automating technology solutions, and I enjoy exploring projects that combine multiple fields such as electronics, programming, and hardware development.&lt;/p&gt;&#xA;&lt;p&gt;This site is dedicated to sharing my &lt;strong&gt;projects&lt;/strong&gt; and &lt;strong&gt;experiences&lt;/strong&gt; in technology. From automated tools like &lt;strong&gt;EZCALENDAR&lt;/strong&gt; for generating calendars to more complex projects like &lt;strong&gt;SPO32&lt;/strong&gt;, a system that combines &lt;strong&gt;music control&lt;/strong&gt; and &lt;strong&gt;data display&lt;/strong&gt; in a single device, I always try to find &lt;strong&gt;efficient&lt;/strong&gt; and &lt;strong&gt;creative&lt;/strong&gt; solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dart Machine Modernization</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/maquinadedardos/</link>
+      <pubDate>Wed, 02 Oct 2024 10:30:39 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/maquinadedardos/</guid>
+      <description>&lt;p&gt;At a lunch with my mother, I met the &lt;strong&gt;CEO of a darts federation&lt;/strong&gt; that owns a large stock of old &lt;strong&gt;dart machines&lt;/strong&gt;. They have been looking for someone to help &lt;strong&gt;upgrade the displays&lt;/strong&gt;, which still rely on &lt;strong&gt;7-segment displays and LEDs&lt;/strong&gt; from the 80s and 90s.&lt;/p&gt;&#xA;&lt;p&gt;I said I could help and visited the warehouse with a friend for initial testing.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;first-impressions&#34;&gt;First impressions&lt;/h3&gt;&#xA;&lt;p&gt;The machines are very &lt;strong&gt;vintage&lt;/strong&gt;. I searched for manuals beforehand but found very little, likely because they were custom-developed for that federation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Models</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/modelos3d/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/modelos3d/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/3D.png&#34; alt=&#34;3D Models&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have created several printable &lt;strong&gt;3D models&lt;/strong&gt; using the online CAD tool &lt;strong&gt;OnShape&lt;/strong&gt;. I took a free course and learned everything I needed to design practical parts.&lt;/p&gt;&#xA;&lt;p&gt;I upload to &lt;strong&gt;GitHub&lt;/strong&gt; the models that can be useful, such as &lt;strong&gt;generic batteries&lt;/strong&gt; or &lt;strong&gt;motors&lt;/strong&gt;. In the future, I would like to get a &lt;strong&gt;3D scanner&lt;/strong&gt; to speed up repair workflows.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;    &lt;aside class=&#34;admonition info&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-title&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34;&#xD;&#xA;      stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;feather feather-info&#34;&gt;&#xD;&#xA;      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34;&gt;&lt;/circle&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;16&#34; x2=&#34;12&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;      &lt;line x1=&#34;12&#34; y1=&#34;8&#34; x2=&#34;12.01&#34; y2=&#34;8&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/div&gt;&lt;b&gt;Visit the project&lt;/b&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;admonition-content&#34;&gt;&lt;a href=&#34;https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects&#34;&gt;View on GitHub&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/aside&gt;</description>
+    </item>
+    <item>
+      <title>Failed Project: Robotic Arm</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectofallidobrazo/</link>
+      <pubDate>Tue, 13 Aug 2024 10:30:39 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectofallidobrazo/</guid>
+      <description>&lt;p&gt;One day I saw a video about gemstone polishing and faceting. Everything was manual, so I thought about building a robotic arm that could facet stones based on a 3D model.&lt;/p&gt;&#xA;&lt;p&gt;I knew almost nothing about CAD at that point, so I took a short course and started building.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;general-idea&#34;&gt;General idea&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A &lt;strong&gt;robotic arm&lt;/strong&gt; holding the stone, with &lt;strong&gt;three axes&lt;/strong&gt; plus final rotation.&lt;/li&gt;&#xA;&lt;li&gt;A rotating &lt;strong&gt;abrasive base&lt;/strong&gt; to remove layers.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;control algorithm&lt;/strong&gt; for arm movement.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/brazo.gif&#34; alt=&#34;Arm&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D-Printed Logo and Keychains</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/</link>
+      <pubDate>Wed, 07 Aug 2024 10:30:39 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/</guid>
+      <description>&lt;p&gt;A colleague of mine is launching a &lt;strong&gt;car rental company&lt;/strong&gt;, and I proposed making &lt;strong&gt;custom keychains&lt;/strong&gt; as a marketing asset. I had already helped with his logo, brand registration, photos, and custom plate frames. Then we came up with this keychain idea.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;design-ideas&#34;&gt;Design ideas&lt;/h2&gt;&#xA;&lt;p&gt;We settled on two keychain concepts:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A &lt;strong&gt;round keychain&lt;/strong&gt; with the brand initials, &lt;strong&gt;LR&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;license-plate keychain&lt;/strong&gt; to identify each car.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Since the logo has two colors and my printer is single-color, I designed the keychain in separate parts and glued them after printing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPO32</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/SPO32.png&#34; alt=&#34;SPO32&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the most &lt;strong&gt;complex&lt;/strong&gt; project I have built so far. I wanted to combine several everyday tasks in a single device so I would not have to switch windows constantly.&lt;/p&gt;&#xA;&lt;p&gt;Implemented features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A &lt;strong&gt;digital clock&lt;/strong&gt; showing current, maximum, and minimum daily temperature.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;Spotify controller&lt;/strong&gt; with track info, remaining time, and playback control.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;challenges-and-solutions&#34;&gt;Challenges and solutions&lt;/h3&gt;&#xA;&lt;p&gt;The first big challenge was using &lt;strong&gt;two LCD screens&lt;/strong&gt; at once. Their registers conflicted, so both could not be connected directly to the same &lt;strong&gt;ESP32&lt;/strong&gt;. I solved this using a &lt;strong&gt;multiplexer&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

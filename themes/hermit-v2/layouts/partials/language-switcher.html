@@ -1,4 +1,4 @@
-{{- if .Site.IsMultiLingual -}}
+{{- if gt (len .Sites) 1 -}}
 <div id="lang-switcher" aria-label="Language selector">
 	{{- $current := . -}}
 	{{- range .Site.Languages -}}

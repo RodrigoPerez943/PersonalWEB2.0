@@ -1,61 +1,543 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Hermit - V2</title>
-    <link>http://localhost:1313/hermit-V2/en/posts/</link>
-    <description>Recent content in Posts on Hermit - V2</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 03 Oct 2024 23:38:26 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hermit-V2/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Varios</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/varios/</link>
-      <pubDate>Thu, 03 Oct 2024 23:38:26 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/varios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Proyectos Para Empresas</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/proyectos_para_empresas/</link>
-      <pubDate>Thu, 03 Oct 2024 23:38:18 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/proyectos_para_empresas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AUTO-YT</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/auto-yt/</link>
-      <pubDate>Thu, 03 Oct 2024 23:37:56 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/auto-yt/</guid>
-      <description>&lt;p&gt;¿Qué es Lorem Ipsum?&#xA;Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas &amp;ldquo;Letraset&amp;rdquo;, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>STYLO-BOX</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/stylo-box/</link>
-      <pubDate>Thu, 03 Oct 2024 23:37:35 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/stylo-box/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SPO32</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/spo32/</link>
-      <pubDate>Thu, 03 Oct 2024 23:37:25 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/spo32/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EZCALENDAR</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/ezcalendar/</link>
-      <pubDate>Thu, 03 Oct 2024 23:36:44 +0200</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/ezcalendar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mi primer post</title>
-      <link>http://localhost:1313/hermit-V2/en/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/hermit-V2/en/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Posts on Rodrigo Perez del Pulgar Almodovar</title>
+		<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/</link>
+		<description>Recent content in Posts on Rodrigo Perez del Pulgar Almodovar</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 08 Mar 2026 12:23:39 +0200</lastBuildDate>
+		<atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>DDJ100 Mixing Console</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ddj1000/</link>
+			<pubDate>Sun, 08 Mar 2026 12:23:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ddj1000/</guid>
+			<description><![CDATA[Repairing a damaged DDJ1000 controller]]></description>
+			<content type="html"><![CDATA[<p>After quite some time without working on any personal projects, I came across a heavily damaged Pioneer DDJ-1000 controller for a very good price, so I decided to buy it.</p>
+<p>The jog wheels were broken, the four volume faders were snapped, and several buttons were damaged. I ordered the replacement parts and, after soldering and replacing quite a few components, it works perfectly again.</p>
+<p>I also had to design the caps for almost all the knobs and 3D-print them. Here are some photos I took during the process.</p>
+<p>Time to DJ!</p>
+<p><img src="/PersonalWEB2.0/images/ddj1001.png" alt="DDJ1">
+<img src="/PersonalWEB2.0/images/ddj1002.png" alt="DDJ2">
+<img src="/PersonalWEB2.0/images/ddj1003.png" alt="DDJ3">
+<img src="/PersonalWEB2.0/images/ddj1004.png" alt="DDJ4">
+<img src="/PersonalWEB2.0/images/ddj1005.png" alt="DDJ5"></p>
+<hr>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Useful Pages</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/</link>
+			<pubDate>Sat, 19 Oct 2024 21:08:16 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/</guid>
+			<description><![CDATA[Who knows, maybe you will find your next favorite website here...]]></description>
+			<content type="html"><![CDATA[<h2 id="websites-i-use-regularly">Websites I use regularly</h2>
+<ul>
+<li><a href="https://www.thingiverse.com/">Thingiverse</a>: Huge collection of printable <strong>3D models</strong>.</li>
+<li><a href="https://gulagcleaner.com/">Gulag Cleaner</a>: Removes abusive <strong>ads</strong> from <strong>Wuolah</strong> PDFs.</li>
+<li><a href="https://www.f-secure.com/en/identity-theft-checker">F-Secure Identity Theft Checker</a>: Checks if your data appears in a <strong>data breach</strong>.</li>
+<li><a href="https://www.opensubtitles.org/es">OpenSubtitles</a>: Useful if you need <strong>subtitles</strong>.</li>
+<li><a href="https://www.onshape.com/en/">OnShape</a>: The CAD software I use.</li>
+<li><a href="https://www.mailticking.com/">MailTicking</a>: <strong>Temporary Gmail accounts</strong> for sketchy websites.</li>
+</ul>
+<hr>
+<h2 id="essential-chrome-extensions-my-main-browser">Essential Chrome extensions (my main browser)</h2>
+<ul>
+<li><a href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean">Bypass Paywalls Chrome Clean</a>: Bypasses abusive paywalls on some sites.</li>
+<li><a href="https://chromewebstore.google.com/detail/video-speed-pro/iinblfpbdoplpbdkepibimlgabgkaika">Video Speed Pro</a>: Controls playback speed on web players.</li>
+<li><a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a>: Excellent ad blocker and anti-tracking extension.</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Range Hood Repair</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparaci%C3%B3nnevera/</link>
+			<pubDate>Tue, 15 Oct 2024 09:31:37 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparaci%C3%B3nnevera/</guid>
+			<description><![CDATA[3D design of replacement parts to repair a glass panel support.]]></description>
+			<content type="html"><![CDATA[<p>A few days ago, the <strong>glass panel support</strong> of my home range hood broke, and my mother asked me to design a <strong>3D-printed replacement part</strong>. I use a <strong>Creality V3 KE</strong>, and it has been great.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/humo1_hu_38d269dd4b47d718.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/humo1_hu_f42345a78d109b34.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/humo1_hu_38d269dd4b47d718.webp"alt="Old parts"  width="600"  height="480"  loading="lazy" />
+        </picture><figcaption>
+            <p>Old Parts</p>
+          </figcaption></figure>
+<p>After measuring the original part with a caliper and iterating through a couple of prints, I got a strong and accurate fit.</p>
+<p><img src="/PersonalWEB2.0/images/Nevera.gif" alt="Repair"></p>
+<hr>
+<p>You can find the <strong>3D model</strong> on GitHub:</p>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Download the model on GitHub</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects/tree/main/FumeExtractor">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>What is BrainMade?</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/brainmade/</link>
+			<pubDate>Sat, 05 Oct 2024 02:13:23 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/brainmade/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>The logo shown in all posts and in the <strong>About me</strong> section indicates that this website was created by a <strong>human</strong>, not by a generative tool.</p>
+<p>Although <strong>artificial intelligence</strong> is a powerful and useful tool, we strongly believe it should not replace <strong>personal creation</strong>.</p>
+<blockquote>
+<p><em>&ldquo;Human creativity has a unique value that should not be lost in an increasingly automated world.&rdquo;</em></p>
+</blockquote>
+<p>If you want to learn more about this initiative, you can click the <strong>Brain Made</strong> icon.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Dart Machine Modernization</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/maquinadedardos/</link>
+			<pubDate>Wed, 02 Oct 2024 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/maquinadedardos/</guid>
+			<description><![CDATA[Upgrading an old LED display system to OLED.]]></description>
+			<content type="html"><![CDATA[<p>At a lunch with my mother, I met the <strong>CEO of a darts federation</strong> that owns a large stock of old <strong>dart machines</strong>. They have been looking for someone to help <strong>upgrade the displays</strong>, which still rely on <strong>7-segment displays and LEDs</strong> from the 80s and 90s.</p>
+<p>I said I could help and visited the warehouse with a friend for initial testing.</p>
+<hr>
+<h3 id="first-impressions">First impressions</h3>
+<p>The machines are very <strong>vintage</strong>. I searched for manuals beforehand but found very little, likely because they were custom-developed for that federation.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/dardosmaquinacompleta_hu_7899e265049262e2.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/dardosmaquinacompleta_hu_44d6c74a85c8a4e1.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/dardosmaquinacompleta_hu_7899e265049262e2.webp"alt="Full dart machine"  width="600"  height="800"  loading="lazy" />
+        </picture><figcaption>
+            <p>Full dart machine</p>
+          </figcaption></figure>
+<hr>
+<h3 id="technical-description">Technical description</h3>
+<p>The <strong>main board</strong> connects all machine parts and buttons. The display is connected through a <strong>40-pin bus</strong>.</p>
+<ul>
+<li><strong>17 pins</strong> carry information.</li>
+<li><strong>3 pins</strong> are: one unknown, one ground, and one power.</li>
+<li><strong>13 pins</strong> vary.</li>
+<li><strong>4 pins</strong> are constant, all 1s.</li>
+</ul>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/dardosdev_hu_68bd02d3dbf81646.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/dardosdev_hu_3c9d6bcb0fa85c93.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/dardosdev_hu_68bd02d3dbf81646.webp"alt="Open dart machine"  width="2048"  height="1536"  loading="lazy" />
+        </picture><figcaption>
+            <p>Open dart machine</p>
+          </figcaption></figure>
+<hr>
+<h3 id="action-plan">Action plan</h3>
+<p>For <strong>reverse engineering</strong>, we will try different <strong>button combinations</strong> and observe how bus bits change. We suspect the processor sends state changes rather than full data, meaning part of the processing happens on the <strong>display board</strong>.</p>
+<hr>
+<h3 id="next-steps">Next steps</h3>
+<p>We will start by decoding the bus bit meanings, then analyze the display PCB in detail.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>3D Models</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/modelos3d/</link>
+			<pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/modelos3d/</guid>
+			<description><![CDATA[Creating printable 3D models, including useful parts like generic batteries and motors.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/3D.png" alt="3D Models"></p>
+<p>I have created several printable <strong>3D models</strong> using the online CAD tool <strong>OnShape</strong>. I took a free course and learned everything I needed to design practical parts.</p>
+<p>I upload to <strong>GitHub</strong> the models that can be useful, such as <strong>generic batteries</strong> or <strong>motors</strong>. In the future, I would like to get a <strong>3D scanner</strong> to speed up repair workflows.</p>
+<hr>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STL-SelfMade-Usefull-Objects">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Failed Project: Robotic Arm</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectofallidobrazo/</link>
+			<pubDate>Tue, 13 Aug 2024 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectofallidobrazo/</guid>
+			<description><![CDATA[Design, printing, and control ideas for a robotic arm to polish gemstones.]]></description>
+			<content type="html"><![CDATA[<p>One day I saw a video about gemstone polishing and faceting. Everything was manual, so I thought about building a robotic arm that could facet stones based on a 3D model.</p>
+<p>I knew almost nothing about CAD at that point, so I took a short course and started building.</p>
+<hr>
+<h2 id="general-idea">General idea</h2>
+<ol>
+<li>A <strong>robotic arm</strong> holding the stone, with <strong>three axes</strong> plus final rotation.</li>
+<li>A rotating <strong>abrasive base</strong> to remove layers.</li>
+<li>A <strong>control algorithm</strong> for arm movement.</li>
+</ol>
+<p><img src="/PersonalWEB2.0/images/brazo.gif" alt="Arm"></p>
+<hr>
+<h2 id="my-workflow">My workflow</h2>
+<ol>
+<li>Bought servos on AliExpress.</li>
+<li>Designed the arm around those servos.</li>
+<li>Started coding with Arduino.</li>
+</ol>
+<p>Main issue: cheap servos had too much backlash and too little torque, so the system was not precise enough.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/brazo_hu_454fb937812c04f4.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/brazo_hu_252f0f66f8c7f09b.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/brazo_hu_454fb937812c04f4.webp"alt="arm"  width="600"  height="758"  loading="lazy" />
+        </picture><figcaption>
+            <p>3D Printed Arm</p>
+          </figcaption></figure>
+<hr>
+<h2 id="the-algorithm-i-never-finished">The algorithm (I never finished)</h2>
+<p>The plan was to model the stone as a 3D matrix, compare it with the target faceting model, compute the material to remove, detect planar regions, and translate that into arm movements and cut depths.</p>
+<hr>
+<h3 id="final-thought">Final thought</h3>
+<p>I still want to implement the <strong>surface-detection algorithm</strong> one day. It would be a great challenge.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>3D-Printed Logo and Keychains</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/</link>
+			<pubDate>Wed, 07 Aug 2024 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/</guid>
+			<description><![CDATA[Brand design and custom 3D-printed keychains.]]></description>
+			<content type="html"><![CDATA[<p>A colleague of mine is launching a <strong>car rental company</strong>, and I proposed making <strong>custom keychains</strong> as a marketing asset. I had already helped with his logo, brand registration, photos, and custom plate frames. Then we came up with this keychain idea.</p>
+<hr>
+<h2 id="design-ideas">Design ideas</h2>
+<p>We settled on two keychain concepts:</p>
+<ol>
+<li>A <strong>round keychain</strong> with the brand initials, <strong>LR</strong>.</li>
+<li>A <strong>license-plate keychain</strong> to identify each car.</li>
+</ol>
+<p>Since the logo has two colors and my printer is single-color, I designed the keychain in separate parts and glued them after printing.</p>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/lr2_hu_159a1f90127337ad.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/lr2_hu_ce216df97e8dca5.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/lr2_hu_159a1f90127337ad.webp"alt="Keychains"  width="600"  height="750"  loading="lazy" />
+        </picture><figcaption>
+            <p>Black and White Keychains</p>
+          </figcaption></figure>
+<hr>
+<h3 id="printing-process">Printing process</h3>
+<ul>
+<li>
+<p><strong>Logo keychain</strong>:
+I printed a black circular base with grooves for white letters. Due to 3D printing tolerances, I had to run several iterations to get a proper fit.</p>
+</li>
+<li>
+<p><strong>License-plate keychain</strong>:
+This one was trickier because I wanted the same typography as real Spanish plates. I designed the text in Photoshop, converted it to STL with <a href="https://imagetostl.com/convert/file/png/to/stl">Image to STL</a>, then extruded and adjusted it in OnShape.</p>
+</li>
+</ul>
+
+<figure class="webp" ><picture>
+          <source srcset="/PersonalWEB2.0/images/lr1_hu_60fa2f0ae4f0fec1.webp" type="image/webp">
+          <source srcset="/PersonalWEB2.0/images/lr1_hu_73d9fcd3a669e7df.jpg" type="image/jpeg">
+          <img src="/PersonalWEB2.0/images/lr1_hu_60fa2f0ae4f0fec1.webp"alt="Keychains"  width="600"  height="400"  loading="lazy" />
+        </picture><figcaption>
+            <p>Keychain and Plate</p>
+          </figcaption></figure>
+<hr>
+<h3 id="final-details">Final details</h3>
+<p>We bought key rings from AliExpress because the cost was much lower and quality was equivalent to local hardware stores.</p>
+<hr>
+<h3 id="next-steps">Next steps</h3>
+<p>The keychains turned out great. My next idea is to add an <strong>NFC sticker</strong> to the logo keychain, so customers can tap with their phone and open a <strong>landing page</strong> with links to the rental site and social media.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>SPO32</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</link>
+			<pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</guid>
+			<description><![CDATA[A project that combines multiple daily tools in one device, including a digital clock and Spotify controller.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/SPO32.png" alt="SPO32"></p>
+<p>This is the most <strong>complex</strong> project I have built so far. I wanted to combine several everyday tasks in a single device so I would not have to switch windows constantly.</p>
+<p>Implemented features include:</p>
+<ul>
+<li>A <strong>digital clock</strong> showing current, maximum, and minimum daily temperature.</li>
+<li>A <strong>Spotify controller</strong> with track info, remaining time, and playback control.</li>
+</ul>
+<hr>
+<h3 id="challenges-and-solutions">Challenges and solutions</h3>
+<p>The first big challenge was using <strong>two LCD screens</strong> at once. Their registers conflicted, so both could not be connected directly to the same <strong>ESP32</strong>. I solved this using a <strong>multiplexer</strong>.</p>
+<p>The ESP32 connects to multiple APIs: weather, time, and Spotify.</p>
+<p>Screen switching is done with a <strong>button</strong>, and music control uses a <strong>rotary encoder</strong>.</p>
+<hr>
+<p>Take a look at the demo video or the GitHub repository.</p>
+<p><a href="https://drive.google.com/file/d/1mFgUo-aFKgUav3_NED-ebNgKQcrPmU-6/preview">Watch video</a></p>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/ESPO32">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>STYLO-BOX</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/stylo-box/</link>
+			<pubDate>Fri, 03 May 2024 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/stylo-box/</guid>
+			<description><![CDATA[A university project including a jukebox and a custom stylophone built with STM32.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/STYLOBOX.png" alt="STYLOBOX"></p>
+<p>This project was developed for the <strong>Digital Systems 2</strong> course at my university. The main task was to build a <strong>jukebox</strong> using an <strong>STM32</strong> microcontroller programmed in <strong>C</strong>.</p>
+<hr>
+<h3 id="extra-challenge-custom-stylophone">Extra challenge: custom stylophone</h3>
+<p>For the optional part, I added a custom <strong>stylophone</strong>. I used sensors for the keys and added features like octave switching. The implementation was complex because the codebase relied on <strong>state machines</strong> and register-level programming without using <strong>HAL</strong>.</p>
+<hr>
+<h3 id="result">Result</h3>
+<p>Despite the difficulties, the project was a success and I received the <strong>Best Hardware Design</strong> badge.</p>
+<p><img src="/PersonalWEB2.0/images/imagen%20%281%29.jpg" alt="Project image"></p>
+<p>You can explore the code on GitHub.</p>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/STYLOBOX">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>HACKATHON - EESTech Challenge 2024 - MINSAIT</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/hackathon/</link>
+			<pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/hackathon/</guid>
+			<description><![CDATA[Participation in a university hackathon developing ML models to predict IMDB scores.]]></description>
+			<content type="html"><![CDATA[<p>I had the chance to join a 3-day <strong>hackathon</strong> at my university, where we developed <strong>machine learning</strong> models to predict movie ratings on <strong>IMDB</strong>. During the event, I learned new skills such as <strong>image processing</strong> and gained deeper understanding of <strong>AI models</strong>.</p>
+<hr>
+<h2 id="the-hackathon-had-two-phases">The hackathon had two phases</h2>
+<ol>
+<li>
+<h3 id="movie-rating-prediction"><strong>Movie rating prediction</strong></h3>
+<p>The first phase focused on predicting a movie score based on its features (actors, category, year, duration, etc.). We were given a dataset of around 10,000 movies and had to train our models with it.</p>
+</li>
+<li>
+<h3 id="prediction-from-movie-posters"><strong>Prediction from movie posters</strong></h3>
+<p>The second phase was similar, but using <strong>movie posters</strong>. Here, <strong>image processing</strong> became key. My approach was to analyze image <strong>pixels</strong> and extract the three most frequent colors.</p>
+</li>
+</ol>
+<p>Even though the final results were not top-ranked, it was an excellent learning experience.</p>
+<hr>
+<p>The winners from our venue, who reached the <strong>European final</strong>, showed an impressive level. It was exhausting but also <strong>very rewarding</strong>.</p>
+<p><img src="/PersonalWEB2.0/images/hackathon.jpeg" alt="Hackathon"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>AUTO-YT</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/auto-yt/</link>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/auto-yt/</guid>
+			<description><![CDATA[An automated system to generate YouTube content using the Google API and scraping.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/auto-yt.png" alt="AUTOYT"></p>
+<p>I wanted to explore <strong>YouTube monetization</strong> by creating an automated channel. Using the <strong>Google YouTube API</strong> and some <strong>scraping</strong> techniques, I managed to generate content in minutes without manual editing or content hunting.</p>
+<hr>
+<h2 id="how-does-it-work">How does it work?</h2>
+<p>To run the system correctly, you need:</p>
+<ul>
+<li><strong>Instagram account credentials</strong> to fetch videos from followed accounts.</li>
+<li>Access to the <strong>Google account</strong> of the channel where videos will be uploaded.</li>
+<li>A <strong>developer account</strong> for authentication.</li>
+</ul>
+<p>The program stores uploaded video IDs in a database. When it looks for new videos, it checks whether they were uploaded before to avoid duplicates.</p>
+<hr>
+<h2 id="available-options">Available options</h2>
+<ol>
+<li>
+<h3 id="upload-a-youtube-short"><strong>Upload a YouTube Short</strong></h3>
+<p>The program looks for vertical videos in followed Instagram accounts. Steps:</p>
+<ul>
+<li>It checks whether the video already exists in the database.</li>
+<li>If the video is under 1 minute and meets the requirements, it shows a console link for user confirmation.</li>
+<li>After confirmation, the video is uploaded automatically to <strong>YouTube Shorts</strong>.</li>
+</ul>
+<p>Tip: adjust the video name and description before uploading.</p>
+</li>
+<li>
+<h3 id="create-video-compilations"><strong>Create video compilations</strong></h3>
+<ul>
+<li>Lets you select multiple videos to build a <strong>compilation</strong>.</li>
+<li>You can choose how many videos to scrape from Instagram and whether to add an <strong>intro/outro</strong>.</li>
+<li>This process is slower than Shorts because <strong>MoviePy</strong> is used for editing and formatting.</li>
+</ul>
+</li>
+</ol>
+<p><img src="/PersonalWEB2.0/images/autpyt.png" alt="AUTOYT"></p>
+<hr>
+<h2 id="interested-in-the-code">Interested in the code?</h2>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content">[GitHub - Under maintenance]</div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Software for SAWY</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectos_para_empresas/</link>
+			<pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectos_para_empresas/</guid>
+			<description><![CDATA[Automated solutions to generate exercises and questions from educational video content.]]></description>
+			<content type="html"><![CDATA[<p>Working for <strong>SAWY</strong>, I developed two main tools that significantly improved the previous workflow.</p>
+<hr>
+<p><img src="/PersonalWEB2.0/images/TEXT2QU.png" alt="TEXT2QU"></p>
+<h3 id="text2qu"><strong>TEXT2QU</strong></h3>
+<p><strong>TEXT2QU</strong> is private software designed to <strong>automate puzzle-style programming exercise generation</strong> for online courses. It can produce <strong>hundreds of questions in seconds</strong>.</p>
+<hr>
+<p><img src="/PersonalWEB2.0/images/TEXT2Q.png" alt="TEXT2Q"></p>
+<h3 id="text2q"><strong>TEXT2Q</strong></h3>
+<p><strong>TEXT2Q</strong> focuses on automatically generating <strong>multiple-choice</strong>, true/false, and fill-in-the-gap questions from <strong>educational videos</strong>.</p>
+<hr>
+<p>Both tools were built in <strong>Python</strong> using <strong>Pandas</strong> and <strong>OpenAI</strong>. Generated outputs still require some <strong>post-processing</strong>, but the <strong>time savings</strong> compared to manual creation are huge.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>EZCALENDAR</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ezcalendar/</link>
+			<pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ezcalendar/</guid>
+			<description><![CDATA[A Python tool to automatically generate exam schedules in PDF format.]]></description>
+			<content type="html"><![CDATA[<p><img src="/PersonalWEB2.0/images/EZCALENDAR.png" alt="EZCALENDAR"></p>
+<h3 id="tired-of-making-exam-or-event-schedules-by-hand">Tired of making exam or event schedules by hand?</h3>
+<p>I built <strong>EZCALENDAR</strong> in <strong>Python</strong> to avoid that repetitive task. With this tool, you can generate a printable <strong>PDF</strong> exam schedule, and it also shows the <strong>days remaining</strong> until each exam.</p>
+<hr>
+<h2 id="how-does-it-work">How does it work?</h2>
+<ol>
+<li>Enter exam <strong>dates</strong> and names.</li>
+<li>Press <strong>Enter</strong>.</li>
+<li>Automatically get an <strong>A4 PDF</strong> with events organized and vertically adjusted based on how many entries you have.</li>
+</ol>
+<h3 id="example-generated-schedule">Example generated schedule</h3>
+<p><img src="/PersonalWEB2.0/images/calendar.png" alt="Schedule"></p>
+<hr>
+<p>If you want to try it, visit the project on GitHub.</p>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/EZCALENDAR">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+		<item>
+			<title>DJ Mixer Repair</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparacionmesapinchar/</link>
+			<pubDate>Tue, 05 Sep 2023 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparacionmesapinchar/</guid>
+			<description><![CDATA[Story time + mixer repair]]></description>
+			<content type="html"><![CDATA[<p>I have always loved mixing music, and one of my dreams is to become a <strong>DJ</strong>. The problem is that good mixers are expensive.</p>
+<p>My first mixer was a <strong>Traktor</strong>. At one party someone spilled a drink on it, and the next day it was basically dead. I disassembled it and kept it for spare parts.</p>
+<hr>
+<p>Years later, a friend gave me a damaged <strong>Pioneer</strong> with several faulty buttons. I tried to repair it, but my desoldering skills were limited, and I damaged several solder pads.</p>
+<p>I had to scrape copper traces with a needle and solder replacement parts from the old Traktor. It was messy, but it works.</p>
+<p>Main lesson: <strong>soldering temperature matters</strong> if you do not want to destroy your PCB. I definitely need a better soldering station.</p>
+<p><img src="/PersonalWEB2.0/images/davidBowieDj.webp" alt="DJ"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Art &#43; Robotics Project</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyetoartemama/</link>
+			<pubDate>Mon, 20 Mar 2023 10:30:39 +0200</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyetoartemama/</guid>
+			<description><![CDATA[Want to see something beautiful?]]></description>
+			<content type="html"><![CDATA[<p>My mother is a <strong>sculptor</strong> and wanted to simulate leaf movement using <strong>magnets</strong>. I helped by designing a circuit where a <strong>stepper motor</strong> controls a magnet with <strong>pseudo-random</strong> motion.</p>
+<p>At first I considered using an <strong>electromagnet</strong>, but that would create a regular oscillation frequency. I preferred changing distance and rotation of a permanent magnet for a more natural motion.</p>
+<p>A demo video will be added soon.</p>
+<hr>
+<p>For the <strong>stepper motor</strong>, I designed a <strong>magnet holder</strong> with multiple positions. Even though we currently use two edge positions, the design allows easy changes and adjustments.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Arduino Projects</title>
+			<link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/arduino/</link>
+			<pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+			
+			<guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/arduino/</guid>
+			<description><![CDATA[Several Arduino projects including circuit diagrams and practical ideas.]]></description>
+			<content type="html"><![CDATA[<p>I have worked on several <strong>Arduino projects</strong>, some of which include <strong>circuit schematics</strong> that can inspire other developers and electronics enthusiasts. Even though the project folder has not been very updated lately, it is still a <strong>good source of ideas</strong>.</p>
+<p><img src="/PersonalWEB2.0/images/Circuito1.png" alt="Arduino Circuit"></p>
+
+    <aside class="admonition info">
+        <div class="admonition-title">
+            <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+   </svg></div><b>Visit the project</b>
+        </div>
+        <div class="admonition-content"><a href="https://github.com/RodrigoPerez943/Arduino-Projects">View on GitHub</a></div>
+    </aside>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,0 +1,317 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<style>
+		:root {
+			--background-image: url('');  
+		}
+
+		body::before {
+			content: "";
+			background-image: var(--background-image);  
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: -1;
+			opacity: 0;
+			transition: opacity 1s ease-in-out;
+		}
+
+		body.image-loaded::before {
+			opacity: 0.1;
+		}
+	</style><meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="robots" content="index, follow"><link rel="author" href="/PersonalWEB2.0/humans.txt">
+<link rel="apple-touch-icon" sizes="180x180" href="/PersonalWEB2.0/apple-touch-icon.png"><link rel="icon" href="/PersonalWEB2.0/favicon.ico" type="image/x-icon"><link rel="icon" type="image/png" sizes="32x32" href="/PersonalWEB2.0/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/PersonalWEB2.0/favicon-16x16.png">
+<link rel="manifest" href="/PersonalWEB2.0/site.webmanifest">
+<meta name="msapplication-TileImage" content="/PersonalWEB2.0/mstile-144x144.png">
+<meta name="theme-color" content="#494f5c">
+<meta name="msapplication-TileColor" content="#494f5c">
+<link rel="mask-icon" href="/PersonalWEB2.0/safari-pinned-tab.svg" color="#494f5c"><meta name="author" content="Rodrigo Perez del Pulgar Almodovar">
+
+  <meta itemprop="name" content="Posts">
+  <meta itemprop="datePublished" content="2026-03-08T12:23:39+02:00">
+  <meta itemprop="dateModified" content="2026-03-08T12:23:39+02:00">
+  <meta itemprop="image" content="https://rodrigoperez943.github.io/PersonalWEB2.0/images/prev.png"><meta property="og:url" content="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/">
+  <meta property="og:site_name" content="Rodrigo Perez del Pulgar Almodovar">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://rodrigoperez943.github.io/PersonalWEB2.0/images/prev.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://rodrigoperez943.github.io/PersonalWEB2.0/images/prev.png">
+  <meta name="twitter:title" content="Posts">
+<title>Posts</title>
+<link rel="alternate" type="application/rss+xml" href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/index.xml" title="Posts" />
+<link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="https://rodrigoperez943.github.io/PersonalWEB2.0/css/style.min.e90393353bbfb86aa05145d27809cec9f860619923085ff07c25c2ac4bd05527.css" integrity="sha256-6QOTNTu/uGqgUUXSeAnOyfhgYZkjCF/wfCXCrEvQVSc=" crossorigin="anonymous">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8TSPMPZ0R6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8TSPMPZ0R6');
+</script>
+
+</head>
+<body id="page">
+	<script>
+		document.addEventListener("DOMContentLoaded", async function () {
+			try {
+				const response = await fetch(
+					"https://api.nasa.gov/planetary/apod?api_key=YunabUb45a5nweqX21iAZxeC4EsawKtxpvlsiYXU&count=8&thumbs=true"
+				);
+
+				const data = await response.json();
+
+				
+				let chosen = data.find(item => item.media_type === "image" && item.url);
+
+				
+				if (!chosen) {
+					chosen = data.find(item => item.thumbnail_url);
+				}
+
+				if (!chosen) return;
+
+				const backgroundUrl = chosen.hdurl || chosen.url || chosen.thumbnail_url;
+
+				const img = new Image();
+				img.src = backgroundUrl;
+
+				img.onload = function () {
+					document.documentElement.style.setProperty(
+						'--background-image',
+						`url('${backgroundUrl}')`
+					);
+					document.body.classList.add('image-loaded');
+				};
+			} catch (error) {
+				console.error("No se pudo cargar la imagen de fondo:", error);
+			}
+		});
+	</script><div id="lang-switcher" aria-label="Language selector"><a class="" href="https://rodrigoperez943.github.io/PersonalWEB2.0/posts/">ES</a><a class="active" href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/">EN</a></div>
+	<header id="site-header" class="animated slideInUp">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/">Rodrigo Perez del Pulgar Almodovar</a>
+				</div>
+				<nav class="site-nav hide-in-mobile"><a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/">Projects</a><a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/about/">About</a></nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://www.linkedin.com/in/rodrigoperezalmo" target="_blank" rel="noopener me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+   <rect x="2" y="9" width="4" height="12"></rect>
+   <circle cx="4" cy="4" r="2"></circle>
+</svg></a><a href="https://github.com/RodrigoPerez943" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path
+      d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+   </path>
+</svg></a><a href="mailto:rodrigoperezalmo@gmail.com" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+   <polyline points="22,6 12,13 2,6"></polyline>
+</svg></a></span> 
+<div id="share-links" class="animated fast">
+    
+    
+    
+    
+    <ul>
+        <li>
+            <a href="https://twitter.com/intent/tweet?hashtags=hermit2&amp;url=https%3a%2f%2frodrigoperez943.github.io%2fPersonalWEB2.0%2fen%2fcategories%2f&amp;text=Categories" target="_blank" rel="noopener" aria-label="Share on X"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path class="st0" d="m21.3 21.1 -11.4 -18.2h-7.2l11.4 18.2zm-18.6 0 7.2 -6.6m4.2 -5 7.2 -6.6" />
+</svg></a>
+        </li>
+        <li>
+            <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2frodrigoperez943.github.io%2fPersonalWEB2.0%2fen%2fcategories%2f" target="_blank" rel="noopener" aria-label="Share on Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+</svg></a>
+        </li>
+        <li>
+            <a href="mailto:?subject=Categories&amp;body=https%3a%2f%2frodrigoperez943.github.io%2fPersonalWEB2.0%2fen%2fcategories%2f" target="_self" rel="noopener" aria-label="Share on Email"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+   <polyline points="22,6 12,13 2,6"></polyline>
+</svg></a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frodrigoperez943.github.io%2fPersonalWEB2.0%2fen%2fcategories%2f&amp;source=https%3a%2f%2frodrigoperez943.github.io%2fPersonalWEB2.0%2f&amp;title=Categories&amp;summary=Categories%2c%20by%20Rodrigo%20Perez%20del%20Pulgar%20Almodovar%0a%0a%3cnil%3e%0a" target="_blank" rel="noopener" aria-label="Share on LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+   <rect x="2" y="9" width="4" height="12"></rect>
+   <circle cx="4" cy="4" r="2"></circle>
+</svg></a>
+        </li>
+        <li>
+            <a href="#" onclick="linkShare(&#34;Categories&#34;,&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/en/categories/&#34;,&#34;Categories, by Rodrigo Perez del Pulgar Almodovar\n\n\u003cnil\u003e\n&#34;); return false;" target="_self" rel="noopener" aria-label="Copy Link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy">
+      <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+   </svg></a>
+        </li>
+    </ul>
+</div><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+   </svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/">Projects</a></li>
+			<li><a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/about/">About</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner thin animated fadeIn faster">
+		<h1>Posts</h1><h2> </h2>
+		
+		<div class="pinned-posts-group">
+			<ul class="pinned-posts-list">
+				<li class="pinned-post-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 15 15" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-pin">>
+      <path d="m10.25 10.25 4 4m-12.5-7.5 5-5s1 2 2 3 4.5 2 4.5 2l-6.5 6.5s-1-3.5-2-4.5-3-2-3-2" />
+   </svg>
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/"><span class="post-title">Useful Pages</span></a>
+				</li>
+				<li class="pinned-post-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 15 15" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-pin">>
+      <path d="m10.25 10.25 4 4m-12.5-7.5 5-5s1 2 2 3 4.5 2 4.5 2l-6.5 6.5s-1-3.5-2-4.5-3-2-3-2" />
+   </svg>
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/brainmade/"><span class="post-title">What is BrainMade?</span></a>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="posts-group">
+			<div class="post-year" id="2026">2026</div>
+			<ul class="posts-list">
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ddj1000/">
+						<span class="post-title">DDJ100 Mixing Console</span>
+						<span class="post-day">Mar 8</span>
+					</a><span class="post-description">Repairing a damaged DDJ1000 controller</span></li>
+			</ul>
+		</div>
+		
+		<div class="posts-group">
+			<div class="post-year" id="2024">2024</div>
+			<ul class="posts-list">
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparaci%C3%B3nnevera/">
+						<span class="post-title">Range Hood Repair</span>
+						<span class="post-day">Oct 15</span>
+					</a><span class="post-description">3D design of replacement parts to repair a glass panel support.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/maquinadedardos/">
+						<span class="post-title">Dart Machine Modernization</span>
+						<span class="post-day">Oct 2</span>
+					</a><span class="post-description">Upgrading an old LED display system to OLED.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/modelos3d/">
+						<span class="post-title">3D Models</span>
+						<span class="post-day">Sep 13</span>
+					</a><span class="post-description">Creating printable 3D models, including useful parts like generic batteries and motors.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectofallidobrazo/">
+						<span class="post-title">Failed Project: Robotic Arm</span>
+						<span class="post-day">Aug 13</span>
+					</a><span class="post-description">Design, printing, and control ideas for a robotic arm to polish gemstones.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/">
+						<span class="post-title">3D-Printed Logo and Keychains</span>
+						<span class="post-day">Aug 7</span>
+					</a><span class="post-description">Brand design and custom 3D-printed keychains.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/">
+						<span class="post-title">SPO32</span>
+						<span class="post-day">Jun 12</span>
+					</a><span class="post-description">A project that combines multiple daily tools in one device, including a digital clock and Spotify controller.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/stylo-box/">
+						<span class="post-title">STYLO-BOX</span>
+						<span class="post-day">May 3</span>
+					</a><span class="post-description">A university project including a jukebox and a custom stylophone built with STM32.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/hackathon/">
+						<span class="post-title">HACKATHON - EESTech Challenge 2024 - MINSAIT</span>
+						<span class="post-day">Apr 5</span>
+					</a><span class="post-description">Participation in a university hackathon developing ML models to predict IMDB scores.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/auto-yt/">
+						<span class="post-title">AUTO-YT</span>
+						<span class="post-day">Jan 12</span>
+					</a><span class="post-description">An automated system to generate YouTube content using the Google API and scraping.</span></li>
+			</ul>
+		</div>
+		
+		<div class="posts-group">
+			<div class="post-year" id="2023">2023</div>
+			<ul class="posts-list">
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyectos_para_empresas/">
+						<span class="post-title">Software for SAWY</span>
+						<span class="post-day">Nov 1</span>
+					</a><span class="post-description">Automated solutions to generate exercises and questions from educational video content.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/ezcalendar/">
+						<span class="post-title">EZCALENDAR</span>
+						<span class="post-day">Oct 22</span>
+					</a><span class="post-description">A Python tool to automatically generate exam schedules in PDF format.</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/reparacionmesapinchar/">
+						<span class="post-title">DJ Mixer Repair</span>
+						<span class="post-day">Sep 5</span>
+					</a><span class="post-description">Story time &#43; mixer repair</span></li>
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/proyetoartemama/">
+						<span class="post-title">Art &#43; Robotics Project</span>
+						<span class="post-day">Mar 20</span>
+					</a><span class="post-description">Want to see something beautiful?</span></li>
+			</ul>
+		</div>
+		
+		<div class="posts-group">
+			<div class="post-year" id="2022">2022</div>
+			<ul class="posts-list">
+				<li class="post-item">
+					<a href="https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/arduino/">
+						<span class="post-title">Arduino Projects</span>
+						<span class="post-day">Jul 10</span>
+					</a><span class="post-description">Several Arduino projects including circuit diagrams and practical ideas.</span></li>
+			</ul>
+		</div>
+	</main>
+
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+	<p>
+		&copy; 2026 <a href="https://rodrigoperez943.github.io/PersonalWEB2.0/">Rodrigo Perez del Pulgar Almodovar</a>
+		&#183; Thanks for visiting!
+	</p>
+
+</footer>
+<script async src="https://rodrigoperez943.github.io/PersonalWEB2.0/js/bundle.min.c7c384e4d29d192bbac6811ae4660bb01767194a5bea56baca77e8260f93ea16.js" integrity="sha256-x8OE5NKdGSu6xoEa5GYLsBdnGUpb6la6ynfoJg+T6hY=" crossorigin="anonymous"></script><script async src="https://rodrigoperez943.github.io/PersonalWEB2.0/js/link-share.min.24409a4f6e5537d70ffc55ec8f9192208d718678cb8638585342423020b37f39.js" integrity="sha256-JECaT25VN9cP/FXsj5GSII1xhnjLhjhYU0JCMCCzfzk=" crossorigin="anonymous"></script>
+</body>
+
+</html>
