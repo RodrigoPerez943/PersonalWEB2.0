@@ -63,11 +63,22 @@
 		document.addEventListener("DOMContentLoaded", async function () {
 			try {
 				const response = await fetch(
-					"https://api.unsplash.com/photos/random?query=space&orientation=landscape&client_id=YunabUb45a5nweqX21iAZxeC4EsawKtxpvlsiYXU"
+					"https://api.nasa.gov/planetary/apod?api_key=YunabUb45a5nweqX21iAZxeC4EsawKtxpvlsiYXU&count=8&thumbs=true"
 				);
 
 				const data = await response.json();
-				const backgroundUrl = data.urls.regular;
+
+				// Preferimos imágenes reales
+				let chosen = data.find(item => item.media_type === "image" && item.url);
+
+				// Si por casualidad vienen vídeos, usamos thumbnail como fallback
+				if (!chosen) {
+					chosen = data.find(item => item.thumbnail_url);
+				}
+
+				if (!chosen) return;
+
+				const backgroundUrl = chosen.hdurl || chosen.url || chosen.thumbnail_url;
 
 				const img = new Image();
 				img.src = backgroundUrl;
