@@ -16,6 +16,13 @@
       <description>&lt;p&gt;After quite some time without working on any personal projects, I came across a heavily damaged Pioneer DDJ-1000 controller for a very good price, so I decided to buy it.&lt;/p&gt;&#xA;&lt;p&gt;The jog wheels were broken, the four volume faders were snapped, and several buttons were damaged. I ordered the replacement parts and, after soldering and replacing quite a few components, it works perfectly again.&lt;/p&gt;&#xA;&lt;p&gt;I also had to design the caps for almost all the knobs and 3D-print them. Here are some photos I took during the process.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Hiatus</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/hiatus/</link>
+      <pubDate>Sun, 15 Jun 2025 12:00:00 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/hiatus/</guid>
+      <description>&lt;p&gt;This past year has been quite a long one. I haven&amp;rsquo;t worked on many personal projects during this time because most of my effort has been focused on finishing my Bachelor&amp;rsquo;s Thesis.&lt;/p&gt;&#xA;&lt;p&gt;The project required a significant amount of time, both for the research and the implementation, so many of the ideas and small projects I had in mind had to be put on hold for a while.&lt;/p&gt;&#xA;&lt;p&gt;Now that it is finally finished, I hope to slowly get back to building things again and sharing them here.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Useful Pages</title>
       <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/paginasutiles/</link>
       <pubDate>Sat, 19 Oct 2024 21:08:16 +0200</pubDate>
@@ -70,13 +77,6 @@
       <pubDate>Wed, 07 Aug 2024 10:30:39 +0200</pubDate>
       <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/luxerental/</guid>
       <description>&lt;p&gt;A colleague of mine is launching a &lt;strong&gt;car rental company&lt;/strong&gt;, and I proposed making &lt;strong&gt;custom keychains&lt;/strong&gt; as a marketing asset. I had already helped with his logo, brand registration, photos, and custom plate frames. Then we came up with this keychain idea.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;design-ideas&#34;&gt;Design ideas&lt;/h2&gt;&#xA;&lt;p&gt;We settled on two keychain concepts:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A &lt;strong&gt;round keychain&lt;/strong&gt; with the brand initials, &lt;strong&gt;LR&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;license-plate keychain&lt;/strong&gt; to identify each car.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Since the logo has two colors and my printer is single-color, I designed the keychain in separate parts and glued them after printing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SPO32</title>
-      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/en/posts/spo32/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/SPO32.png&#34; alt=&#34;SPO32&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the most &lt;strong&gt;complex&lt;/strong&gt; project I have built so far. I wanted to combine several everyday tasks in a single device so I would not have to switch windows constantly.&lt;/p&gt;&#xA;&lt;p&gt;Implemented features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A &lt;strong&gt;digital clock&lt;/strong&gt; showing current, maximum, and minimum daily temperature.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;Spotify controller&lt;/strong&gt; with track info, remaining time, and playback control.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;challenges-and-solutions&#34;&gt;Challenges and solutions&lt;/h3&gt;&#xA;&lt;p&gt;The first big challenge was using &lt;strong&gt;two LCD screens&lt;/strong&gt; at once. Their registers conflicted, so both could not be connected directly to the same &lt;strong&gt;ESP32&lt;/strong&gt;. I solved this using a &lt;strong&gt;multiplexer&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -9,11 +9,18 @@
     <lastBuildDate>Sun, 08 Mar 2026 12:23:39 +0200</lastBuildDate>
     <atom:link href="https://rodrigoperez943.github.io/PersonalWEB2.0/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mesa de Mezclas DDJ100</title>
+      <title>Mesa de Mezclas DDJ1000</title>
       <link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ddj110/</link>
       <pubDate>Sun, 08 Mar 2026 12:23:39 +0200</pubDate>
       <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/ddj110/</guid>
       <description>&lt;p&gt;Después de bastante tiempo sin tener ningún proyecto personal, encontré una oferta de la controladora Pioneer DDJ-1000 bastante estropeada pero por muy buen precio, y decidí comprarla.&lt;/p&gt;&#xA;&lt;p&gt;Tenía los jog wheels rotos, los cuatro faders de volumen partidos y algún que otro botón dañado. Compré los recambios y, después de soldar y cambiar bastantes cosas, vuelve a funcionar perfectamente.&lt;/p&gt;&#xA;&lt;p&gt;También tuve que diseñar los caps de prácticamente todos los knobs e imprimirlos en 3D. Os dejo algunas fotos que hice durante el proceso.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hiatus</title>
+      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hiatus/</link>
+      <pubDate>Sun, 15 Jun 2025 12:00:00 +0200</pubDate>
+      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/hiatus/</guid>
+      <description>&lt;p&gt;Este último año ha sido bastante intenso y no he tenido mucho tiempo para proyectos personales. Gran parte de mi tiempo ha estado dedicado al Trabajo de Fin de Grado de la carrera.&lt;/p&gt;&#xA;&lt;p&gt;El proyecto ha requerido bastante esfuerzo, tanto en la parte de investigación como en la implementación, por lo que muchas de las ideas y pequeños proyectos que tenía en mente han tenido que quedarse en pausa durante un tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Páginas Útiles</title>
@@ -70,13 +77,6 @@
       <pubDate>Wed, 07 Aug 2024 10:30:39 +0200</pubDate>
       <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/luxerental/</guid>
       <description>&lt;p&gt;Tengo un colega que está montando una empresa de &lt;strong&gt;alquiler de coches&lt;/strong&gt; y le propuse diseñarle unos &lt;strong&gt;llaveros personalizados&lt;/strong&gt; como herramienta de marketing. Ya le había ayudado anteriormente diseñando su logo, registrando su marca, haciendo sesiones de fotos a sus coches y mandando imprimir &lt;strong&gt;tapamatrículas&lt;/strong&gt; personalizadas. Ahora, surgió la idea de crear unos llaveros para su marca.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ideas-de-diseño&#34;&gt;Ideas de diseño&lt;/h2&gt;&#xA;&lt;p&gt;Al final, llegamos a dos ideas para los llaveros:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Llavero redondo&lt;/strong&gt; con las letras del logo de su marca, &lt;strong&gt;LR&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Llavero para identificar las matrículas&lt;/strong&gt; de los diferentes coches.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Como el logo tiene dos colores (blanco y negro) y mi impresora solo imprime en un color (¡espero comprarme una multicolor en el futuro!), tuve que diseñar el llavero por partes. Imprimí cada color por separado y luego las pegué con pegamento. Aunque a veces sobresale un poco, no es un gran problema, ya que los llaveros estarán en bolsillos y es normal que se desgasten con el tiempo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SPO32</title>
-      <link>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoperez943.github.io/PersonalWEB2.0/posts/spo32/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://rodrigoperez943.github.io/PersonalWEB2.0/images/SPO32.png&#34; alt=&#34;SPO32&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este proyecto es el más &lt;strong&gt;complejo y extenso&lt;/strong&gt; que he realizado hasta ahora. La idea surgió de la necesidad de &lt;strong&gt;unificar varias tareas&lt;/strong&gt; que realizaba a diario en diferentes aplicaciones en un único dispositivo. Me resultaba incómodo cambiar de ventana en el portátil cada vez que quería cambiar de canción en &lt;strong&gt;Spotify&lt;/strong&gt; o consultar el clima. Las funcionalidades implementadas incluyen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un &lt;strong&gt;reloj digital&lt;/strong&gt; que muestra la &lt;strong&gt;temperatura actual&lt;/strong&gt;, junto con las temperaturas máxima y mínima del día.&lt;/li&gt;&#xA;&lt;li&gt;Un &lt;strong&gt;controlador de Spotify&lt;/strong&gt; que muestra el tiempo restante de la canción en reproducción, información detallada de la canción, y permite cambiar, retroceder o pausar la reproducción.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;desafíos-y-soluciones&#34;&gt;Desafíos y Soluciones&lt;/h3&gt;&#xA;&lt;p&gt;El primer gran desafío fue usar &lt;strong&gt;dos pantallas LCD&lt;/strong&gt; simultáneamente. Descubrí que los registros de las pantallas eran los mismos, por lo que no podían conectarse al mismo &lt;strong&gt;ESP32&lt;/strong&gt; al mismo tiempo. La solución fue usar un &lt;strong&gt;multiplexor&lt;/strong&gt; para gestionarlo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
